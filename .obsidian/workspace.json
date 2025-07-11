@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a225b4baeff23f2f",
+        "id": "aa099b82e00db3ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e7d90ed2d640be",
+            "id": "8da74805c3ead90c",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9e7d90ed2d640be",
+  "active": "8da74805c3ead90c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "image.png",
     "image 3.png",
     "image 1.png",
@@ -190,7 +191,6 @@
     "Notion Import/Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up/Audit Store Cameras - Check advocates are keeping up.md",
     "Untitled.png",
     "Code Review Notepads/AATT Beta review.md",
-    "conflict-files-obsidian-git.md",
     "Notion Import/Code Review Notepads/Code Review Notepads.md",
     "Code Review Notepads/Video Training.md",
     "Untitled 3.png",
