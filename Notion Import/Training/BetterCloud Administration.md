@@ -1,0 +1,30 @@
+- Make sure integrations are made via a service accounts
+    - Not individual named account
+    - can also turn off 2fa
+    - This might also be a good idea to do for workflow building
+    - Needs to be an admin account
+- In app-dot super admin role has to be granted unlike G-dot which pulled it from Google
+- NOTE ABOUT ROLES: A user can only have one role at a time. Multi role may be coming later
+- Alert Best Practices
+    - Start broad and narrow or split them as needed
+    - Use a naming convention to help with sorting
+- Workflow Best Practices
+    - Naming conventions
+    - Be prepared to explore the options
+        - BC tries to stick to the providers API terminology for easier troubleshooting
+    - Super check the workflow step order it does matter
+    - You can use the find by email BC action to set up a user as a variable for situations where you would be manually adding them to steps
+- QUESTION FOR DAY 2!
+    - You showed us workflow steps can be set to stop or continue when there are errors, but does an alert go out to anyone when that happens?
+        - Yup you turn on in the workflow and decide who should get notifications for each kind of thing
+    - If someone selects the reject option it counts as a “Is stopped manually” event and we can use it to send an alert to start a new workflow and/or take manual action
+- More Workflows
+    - Onboarding
+        - Identify access that ALL new users will have
+        - Then divide out what is specific by some kind of group (set a wait at the top to avoid async-race conditions)
+            - There could be multiple divisions of these so be mindful of all cascading race conditions
+            - These could also be daisy-chained by putting a wait in the first workflow and then moving them into a trigger state (Phase 2 OU, etc) and starting the phase 2 workflows
+            - Putting the wait at the top is best practice if it’s needed ANYWHERE in the flow so it’s easier for others to spot
+- File Security
+    - Currently does NOT include shared drives
+        - In beta, check with Sam to see if we can get included
