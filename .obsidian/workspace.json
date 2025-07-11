@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa099b82e00db3ad",
+        "id": "7f436602baf39c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "8da74805c3ead90c",
+            "id": "5faf50b70f0af4f0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -180,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8da74805c3ead90c",
+  "active": "5faf50b70f0af4f0",
   "lastOpenFiles": [
+    "Notion Import/Notepad/Notepad.md",
+    "Notion Import/Notepad/Buffalo Dispatch interview questions.md",
+    "Notion Import/Notepad/2024 List of achievements for Loren.md",
     "conflict-files-obsidian-git.md",
     "image.png",
     "image 3.png",
@@ -217,8 +216,6 @@
     "Notion Import/Things to remember/Manager Audit Tasks/GA Bandwidth Report.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Review All Contact one after hours messages.md",
     "Notion Import/Things to remember/Manager Audit Tasks/JAMS.md",
-    "Notion Import/Things to remember/Buffalo Personal Emails to Check.md",
-    "Notion Import/Things to remember/Manager Audit Tasks/Manager Audit Tasks.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
     "Notion Import/Things to remember/Manager Audit Tasks",
     "Notion Import/Things to remember",
