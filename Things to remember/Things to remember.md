@@ -22,32 +22,16 @@ pm2 start npm --name "<NAME>" -- run start
 
   
 
-[[Good Gift Card test Orders]]
-
-  
-
-  
-
-[[Twilio Number Verification Values]]
-
-  
-
-  
-
 For next year’s Sentry renewal!
 
 ![[Untitled.png]]
 
   
-
   
 
 **Buffalo uses the ISO 8601 week numbering system**
 
   
-
-  
-
 Loren’s Wardrobe Wallet Card Number is: 4700000009598
 
 [[Manager Audit Tasks]]

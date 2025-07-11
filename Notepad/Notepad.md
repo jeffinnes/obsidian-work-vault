@@ -1,4 +1,7 @@
   
+[[Buffalo Dispatch interview questions]]
+
+[[2024 List of achievements for Loren]]
 
 ## Buffalo Website update flow
 
@@ -14,9 +17,7 @@
 
   
 
-  
-
-Per LiquidWeb
+## Per LiquidWeb To see number of active connections
 
 In that case you can do it by accessing the backend of the server(Command line interface) by running the below commands
 
@@ -24,21 +25,9 @@ To check the status of teh IP : csf -g ipaddress
 To unblock IP : csf -dr ipaddress  
 To whitelist IP : csf -a ipaddress  
 
-  
 
-  
 
-[[Buffalo Dispatch interview questions]]
-
-[[2024 List of achievements for Loren]]
-
-  
-
-  
-
-  
-
-Late this year
+## Late this year
 
 Monica improvement
 

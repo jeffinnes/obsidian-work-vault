@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "29fd9ce9ec6fd8b3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef411e39431ae47d",
+  "active": "29fd9ce9ec6fd8b3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "Training/True Colors Training.md",
+    "Training/Progressive Improvement.md",
+    "Training/PI Training.md",
+    "Training/On-boarding.md",
+    "Training/Cognos training list.md",
+    "Training/BetterCloud Administration.md",
+    "Training",
+    "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up/Audit Store Cameras - Check advocates are keeping up.md",
+    "Things to remember/Manager Audit Tasks/WireShark Logs.md",
+    "Things to remember/Manager Audit Tasks/Untitled.md",
+    "Things to remember/Manager Audit Tasks/Store Reports - IT Section.md",
+    "Things to remember/Manager Audit Tasks/Review Standby Call Sheet.md",
+    "Things to remember/Manager Audit Tasks/Review All Contact one after hours messages.md",
+    "Things to remember/Manager Audit Tasks/PDQ.md",
+    "Things to remember/Manager Audit Tasks/PA Storage Monitor.md",
+    "Things to remember/Manager Audit Tasks/PA Server Monitor.md",
+    "Things to remember/Manager Audit Tasks/Manager Audit Tasks.md",
+    "Things to remember/Manager Audit Tasks/JAMS.md",
+    "Things to remember/Manager Audit Tasks/GA Bandwidth Report.md",
+    "Things to remember/Manager Audit Tasks/Disk Space Report.md",
+    "Things to remember/Manager Audit Tasks/Check Vipre Status.md",
+    "Things to remember/Manager Audit Tasks/Check BitDefender.md",
+    "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
+    "Things to remember/Manager Audit Tasks/Audit Bufex.com.md",
+    "Things to remember/Manager Audit Tasks/Admin Accounts Audit.md",
+    "Things to remember/Twilio Number Verification Values.md",
+    "Things to remember/Things to remember.md",
+    "Things to remember/Manager Audit Tasks",
+    "Things to remember",
+    "Notepad"
   ]
 }
