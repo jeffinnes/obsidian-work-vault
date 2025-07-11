@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90654cc2bec103b4",
+        "id": "a225b4baeff23f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "334fe0259712e2f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Review Notepads/AATT Beta review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AATT Beta review"
-            }
-          },
-          {
-            "id": "8f1a279e3cbe40bb",
+            "id": "a9e7d90ed2d640be",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -35,8 +21,7 @@
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,18 +180,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f1a279e3cbe40bb",
+  "active": "a9e7d90ed2d640be",
   "lastOpenFiles": [
+    "image.png",
+    "image 3.png",
+    "image 1.png",
+    "image 2.png",
+    "fellowship_silloette.jpg",
+    "Notion Import/Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up/Audit Store Cameras - Check advocates are keeping up.md",
+    "Untitled.png",
+    "Code Review Notepads/AATT Beta review.md",
     "conflict-files-obsidian-git.md",
     "Notion Import/Code Review Notepads/Code Review Notepads.md",
-    "Code Review Notepads/AATT Beta review.md",
     "Code Review Notepads/Video Training.md",
-    "image.png",
     "Untitled 3.png",
     "Untitled 1.png",
-    "Untitled.png",
-    "image 2.png",
-    "image 1.png",
     "Notion Import/Code Review Notepads/New Merch Report.md",
     "Rando Code Snips.md",
     "Untitled 2.png",
@@ -222,7 +210,6 @@
     "Notion Import/Things to remember/Manager Audit Tasks/WireShark Logs.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Check BitDefender.md",
     "Notion Import/Things to remember/Manager Audit Tasks/PDQ.md",
-    "Notion Import/Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up/Audit Store Cameras - Check advocates are keeping up.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Review Standby Call Sheet.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Audit Bufex.com.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Admin Accounts Audit.md",
@@ -232,14 +219,11 @@
     "Notion Import/Things to remember/Manager Audit Tasks/JAMS.md",
     "Notion Import/Things to remember/Buffalo Personal Emails to Check.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Manager Audit Tasks.md",
-    "Notion Import/Things to remember/Twilio Number Verification Values.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
     "Notion Import/Things to remember/Manager Audit Tasks",
     "Notion Import/Things to remember",
     "Notion Import/Training",
     "Notion Import/Notepad",
-    "image 3.png",
-    "fellowship_silloette.jpg",
     "Notion Import/My Team/Untitled",
     "My Team/Members/z_TEMPLATE",
     "2022_Randall_Duke.jpg"
