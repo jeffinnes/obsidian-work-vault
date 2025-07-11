@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90654cc2bec103b4",
+        "id": "cf53f1268f0eaac2",
         "type": "tabs",
         "children": [
           {
-            "id": "334fe0259712e2f2",
+            "id": "795839c074318e1d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 3.png"
+                "file": "Rando Code Snips.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Untitled 3"
+              "icon": "lucide-file",
+              "title": "Rando Code Snips"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Rando Code Snips.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Rando Code Snips"
             }
           },
           {
@@ -160,11 +162,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "334fe0259712e2f2",
+  "active": "795839c074318e1d",
   "lastOpenFiles": [
+    "Untitled 3.png",
     "Untitled 2.png",
     "Untitled 1.png",
     "Notion Import/Code Review Notepads/AATT Beta review/AATT Beta review.md",
     "Untitled.png",
-    "Untitled 3.png",
     "Notion Import/Code Review Notepads/Video Training/Video Training.md",
     "Notion Import/Code Review Notepads/New Merch Report.md",
     "Notion Import/Code Review Notepads/Code Review Notepads.md",
