@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd724336948ee859",
+        "id": "9f1810440bd20498",
         "type": "tabs",
         "children": [
           {
-            "id": "ef411e39431ae47d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "29fd9ce9ec6fd8b3",
+            "id": "7b23de1d65d3358b",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -35,8 +21,7 @@
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29fd9ce9ec6fd8b3",
+  "active": "7b23de1d65d3358b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Training/True Colors Training.md",
