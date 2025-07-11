@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Rando Code Snips.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Rando Code Snips"
             }
           },
           {
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5308b1fa155edc4f",
+  "active": "bb9e5edde13885fb",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Rando Code Snips.md",
