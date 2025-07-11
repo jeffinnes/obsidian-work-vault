@@ -1,4 +1,4 @@
-Make a page for each project to gather the notes in.
+ake a page for each project to gather the notes in.
 
 [[New Merch Report]]
 

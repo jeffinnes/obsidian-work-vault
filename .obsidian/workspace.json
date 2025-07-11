@@ -11,12 +11,14 @@
             "id": "334fe0259712e2f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 3.png"
+                "file": "Code Review Notepads/AATT Beta review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Untitled 3"
+              "icon": "lucide-file",
+              "title": "AATT Beta review"
             }
           }
         ]
@@ -164,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,20 +180,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "334fe0259712e2f2",
+  "active": "5308b1fa155edc4f",
   "lastOpenFiles": [
-    "Untitled 2.png",
-    "Untitled 1.png",
-    "Notion Import/Code Review Notepads/AATT Beta review/AATT Beta review.md",
-    "Untitled.png",
-    "Untitled 3.png",
-    "Notion Import/Code Review Notepads/Video Training/Video Training.md",
-    "Notion Import/Code Review Notepads/New Merch Report.md",
     "Notion Import/Code Review Notepads/Code Review Notepads.md",
+    "Code Review Notepads/AATT Beta review.md",
+    "Code Review Notepads/Video Training.md",
+    "image.png",
+    "Untitled 3.png",
+    "Untitled 1.png",
+    "Untitled.png",
+    "image 2.png",
+    "image 1.png",
+    "Notion Import/Code Review Notepads/New Merch Report.md",
+    "Rando Code Snips.md",
+    "Untitled 2.png",
     "Notion Import/Code Review Notepads/Video Training",
     "Notion Import/Code Review Notepads/AATT Beta review",
-    "Notion Import/Code Review Notepads",
-    "Notion Import/My Team/My Team.md",
+    "Code Review Notepads",
+    "My Team/My Team.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Untitled.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Store Reports - IT Section.md",
     "Notion Import/Things to remember/Manager Audit Tasks/PA Server Monitor.md",
@@ -211,19 +217,15 @@
     "Notion Import/Things to remember/Buffalo Personal Emails to Check.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Manager Audit Tasks.md",
     "Notion Import/Things to remember/Twilio Number Verification Values.md",
-    "Notion Import/Things to remember/Good Gift Card test Orders.md",
     "Notion Import/Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
     "Notion Import/Things to remember/Manager Audit Tasks",
     "Notion Import/Things to remember",
     "Notion Import/Training",
     "Notion Import/Notepad",
-    "image 2.png",
     "image 3.png",
-    "image 1.png",
     "fellowship_silloette.jpg",
-    "image.png",
     "Notion Import/My Team/Untitled",
-    "Notion Import/My Team/Members/z_TEMPLATE",
+    "My Team/Members/z_TEMPLATE",
     "2022_Randall_Duke.jpg"
   ]
 }
