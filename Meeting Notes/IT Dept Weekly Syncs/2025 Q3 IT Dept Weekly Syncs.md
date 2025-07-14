@@ -3,21 +3,6 @@ Created: 2025-07-01T12:29
 Type: Weekly Sync
 Created By: Jeff Innes
 ---
-# {DATE}
-
-## From Staff?
-
-- 
-
-## Points of Interest
-
-- 
-
-## Follow-up Action Items (Check off when added to “ToDo list”)
-
-- [ ]
-
----
 # July 8, 2025
 
 ## From Staff?
