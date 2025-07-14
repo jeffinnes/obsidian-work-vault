@@ -11,14 +11,12 @@
             "id": "8c4bf232e76f9804",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Brain Dumps/Rando Code Snips.md",
-                "mode": "source",
-                "source": false
+                "file": "My Team/Members/2022_Jeff_Innes_(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Rando Code Snips"
+              "icon": "lucide-image",
+              "title": "2022_Jeff_Innes_(2)"
             }
           }
         ]
@@ -182,10 +180,10 @@
   },
   "active": "8c4bf232e76f9804",
   "lastOpenFiles": [
+    "Brain Dumps/Rando Code Snips.md",
     "My Team/Members/2022_Jeff_Innes_(2).jpg",
     "My Team/Members/Randall/2022_Randall_Duke.jpg",
     "My Team/Members/Randall/About Randall.md",
-    "Brain Dumps/Rando Code Snips.md",
     "Meeting Notes/Department Mgmt/Dev Team Long Term Brainstorm.md",
     "Meeting Notes/Department Mgmt/Future of JAMS.md",
     "Meeting Notes/Department Mgmt/Ellen Follow up.md",
