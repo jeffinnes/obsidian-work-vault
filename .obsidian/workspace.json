@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b3d2f0c0d18813",
+        "id": "5f98018354c0225f",
         "type": "tabs",
         "children": [
           {
-            "id": "054f204765ebde7a",
+            "id": "8c4bf232e76f9804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_delete_this/True Colors Training.md",
+                "file": "Brain Dumps/Rando Code Snips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "True Colors Training"
+              "title": "Rando Code Snips"
             }
           }
         ]
@@ -180,8 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d8c28e03b1f6014",
+  "active": "8c4bf232e76f9804",
   "lastOpenFiles": [
+    "My Team/Members/2022_Jeff_Innes_(2).jpg",
+    "My Team/Members/Randall/2022_Randall_Duke.jpg",
+    "My Team/Members/Randall/About Randall.md",
+    "Brain Dumps/Rando Code Snips.md",
+    "Meeting Notes/Department Mgmt/Dev Team Long Term Brainstorm.md",
+    "Meeting Notes/Department Mgmt/Future of JAMS.md",
+    "Meeting Notes/Department Mgmt/Ellen Follow up.md",
+    "z_delete_this/True Colors Training.md",
     "Training/Progressive Improvement.md",
     "Training/BetterCloud Administration.md",
     "Training/Cognos training list.md",
@@ -204,24 +212,15 @@
     "Meeting Notes/IT Dept Weekly Syncs/2025 Q1 IT Dept Weekly Syncs.md",
     "Brain Dumps/2024 List of achievements for Loren.md",
     "Brain Dumps/Buffalo Dispatch interview questions.md",
-    "Brain Dumps/Notepad.md",
     "Things to remember/Untitled.png",
     "z_delete_this/image 1.png",
     "z_delete_this/image 2.png",
     "z_delete_this/image 3.png",
-    "Rando Code Snips.md",
     "z_delete_this/Untitled 1.png",
     "z_delete_this/Untitled 2.png",
     "z_delete_this/Untitled 3.png",
     "z_delete_this",
-    "2022_Jeff_Innes_(2).jpg",
     "fellowship_silloette.jpg",
-    "2022_Randall_Duke.jpg",
-    "Meeting Notes/IT Dept Weekly Syncs/IT MGMT Weekly Sync 2.md",
-    "Meeting Notes/UKG/UKG - Executive Business Review.md",
-    "Meeting Notes/UKG/2024-12-11 UKG New Team Meet and Greet.md",
-    "Meeting Notes/UKG/UKG Committee 2024.md",
-    "Meeting Notes/UKG/UKG Committee 2025.md",
     "Meeting Notes/Vendor Meetings",
     "Meeting Notes/Professional Development",
     "Meeting Notes/Projects/Waitwhile",
