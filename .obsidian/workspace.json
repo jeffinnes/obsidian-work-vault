@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notepad/Notepad.md",
+                "file": "Notion Import/Meeting Notes/IT Dept Weekly Syncs Q1 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notepad"
+              "title": "IT Dept Weekly Syncs Q1 2025"
             }
           }
         ]
@@ -182,7 +182,10 @@
   },
   "active": "7b23de1d65d3358b",
   "lastOpenFiles": [
+    "Notion Import/Meeting Notes/IT Dept Weekly Syncs Q.md",
+    "Notion Import/Meeting Notes/IT Dept Weekly Syncs Q1 2025.md",
     "Notion Import/Meeting Notes/Loren - Dev team request management/Loren - Dev team request management.md",
+    "Notion Import/Meeting Notes/UKG Committee 2025/UKG Committee 2025.md",
     "Notepad/Notepad.md",
     "conflict-files-obsidian-git.md",
     "Training/True Colors Training.md",
@@ -206,10 +209,7 @@
     "Things to remember/Manager Audit Tasks/GA Bandwidth Report.md",
     "Things to remember/Manager Audit Tasks/Disk Space Report.md",
     "Things to remember/Manager Audit Tasks/Check Vipre Status.md",
-    "Things to remember/Manager Audit Tasks/Check BitDefender.md",
     "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
-    "Things to remember/Manager Audit Tasks/Audit Bufex.com.md",
-    "Things to remember/Manager Audit Tasks/Admin Accounts Audit.md",
     "Things to remember/Manager Audit Tasks",
     "Things to remember",
     "Notepad"
