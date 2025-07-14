@@ -1,7 +1,4 @@
-  
-[[Buffalo Dispatch interview questions]]
 
-[[2024 List of achievements for Loren]]
 
 ## Buffalo Website update flow
 
