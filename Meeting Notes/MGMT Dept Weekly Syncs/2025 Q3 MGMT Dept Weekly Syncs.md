@@ -2,9 +2,9 @@
 Created: 2025-07-02T11:20
 Last Edited Time: 2025-07-09T11:35
 Type: Weekly Sync
-Created By: Jeff Innes
-Time Range: 2024-07-30
 ---
+
+
 # July 9, 2025
 
 ## Important Takeaways
@@ -20,9 +20,9 @@ Time Range: 2024-07-30
 
 ## Follow-up Action Items (Check off after adding to “ToDo” list)
 
-- [ ] Talk to James about setting up Snipe-it
-    - [ ] Can we set replacement dates?
-- [ ] Brian make a ticket for Fiber battery replacement
+- [x] Talk to James about setting up Snipe-it
+    - [x] Can we set replacement dates?
+- [x] Brian make a ticket for Fiber battery replacement
 
 ---
 

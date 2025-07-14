@@ -1,4 +1,3 @@
-  
 
 We use this as a tool to help everyone reach max potential
 
