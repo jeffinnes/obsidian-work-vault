@@ -3,17 +3,7 @@ Created: 2025-07-02T11:20
 Last Edited Time: 2025-07-09T11:35
 Type: Weekly Sync
 ---
-# {DATE}
 
-## Important Takeaways
-
-- 
-
-## Follow-up Action Items (Check off after adding to “ToDo” list)
-
-- [ ] 
-
----
 
 # July 9, 2025
 
