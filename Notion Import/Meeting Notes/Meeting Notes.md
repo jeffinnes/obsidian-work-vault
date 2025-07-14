@@ -38,7 +38,7 @@ See when each meeting took place and who was there.
 |[[Thanks for the Feedback - Book Club Meeting Notes]]|November 8, 2024 11:02 AM|Jeff Innes|January 8, 2025 4:29 PM|November 8, 2024|Internal Meeting|
 |[[MGMT Dept Weekly Syncs Q4 2024]]|October 15, 2024 12:35 PM|Jeff Innes|December 31, 2024 3:19 PM|October 1, 2024 → December 31, 2024|Weekly Sync|
 |[[IT Dept Weekly Syncs Q4 2024]]|October 15, 2024 12:30 PM|Jeff Innes|December 31, 2024 12:52 PM|October 1, 2024 → December 31, 2024|Weekly Sync|
-|[[Ad Hoc Meeting]]|December 11, 2024 10:55 AM|Jeff Innes|December 11, 2024 11:19 AM|December 11, 2024|Vendor Meet|
+|[[2024-12-11 UKG New Team Meet and Greet]]|December 11, 2024 10:55 AM|Jeff Innes|December 11, 2024 11:19 AM|December 11, 2024|Vendor Meet|
 |[[1-1 with Loren]]|November 25, 2024 9:43 AM|Jeff Innes|November 25, 2024 9:54 AM|November 25, 2024|My 1:1s|
 |[[Star Micronics Options Review]]|November 20, 2024 3:57 PM|Jeff Innes|November 21, 2024 10:31 AM|November 21, 2024|Vendor Meet|
 |[[Ransomware recovery check-in]]|November 8, 2024 11:42 AM|Jeff Innes|November 8, 2024 12:30 PM||Ad Hoc|
