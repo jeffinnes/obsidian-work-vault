@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion Import/Meeting Notes/BE App discussion with Ray (Celerant).md",
+                "file": "Notion Import/Meeting Notes/Projects/Customer Facing App/Customer App Kick-off Meeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Customer App Kick-off Meeting"
+            }
+          },
+          {
+            "id": "f84b52921a18d021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion Import/Meeting Notes/Projects/Customer Facing App/BE App discussion with Ray (Celerant).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "BE App discussion with Ray (Celerant)"
             }
+          },
+          {
+            "id": "12ce62285c289e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion Import/Meeting Notes/Projects/New POS/Odoo Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Odoo Intro"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,40 +209,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fee6d11dc028530f",
+  "active": "4d8c28e03b1f6014",
   "lastOpenFiles": [
+    "Notion Import/Meeting Notes/Projects/New POS/New POS Meeting 1.md",
+    "Notion Import/Meeting Notes/Projects/MS Office 365 Migration/Microage- MS Office Meeting.md",
+    "Notion Import/Meeting Notes/Delete us/Meeting Notes.md",
+    "Notion Import/Meeting Notes/Delete us/Marketing.md",
+    "Notion Import/Meeting Notes/Projects/New POS/Loren-Keith Odoo.md",
+    "Notion Import/Meeting Notes/Projects/New POS",
+    "Notion Import/Meeting Notes/Projects/Loren-James-Jeff - Digital Signage.md",
+    "Notion Import/Meeting Notes/Loren-James Project Catchup.md",
+    "Notion Import/Meeting Notes/James-Loren - Upcoming Server Replacement Projects.md",
+    "Notion Import/Meeting Notes/Delete us/Google Analytics Consult.md",
+    "Notion Import/Meeting Notes/Department Management/Ellen Follow up.md",
+    "Notion Import/Meeting Notes/Projects/Intake Issue Idea from LC.md",
+    "Notion Import/Meeting Notes/Projects/MS Office 365 Migration/Google Template Meeting.md",
+    "Notion Import/Meeting Notes/Department Management/Future of JAMS.md",
+    "Notion Import/Meeting Notes/Department Management/Dev Team Long Term Brainstorm.md",
     "Notion Import/Meeting Notes/1-1 with Loren.md",
+    "Notion Import/Meeting Notes/Department Management",
+    "Notion Import/Meeting Notes/Delete us",
+    "Notion Import/Meeting Notes/Projects/Internal Apps/Giftcard rebuild need.md",
+    "Notion Import/Meeting Notes/Projects/MS Office 365 Migration/End of MS Office Meeting with Loren.md",
+    "Notion Import/Meeting Notes/Projects/Internal Apps",
+    "Notion Import/Meeting Notes/Projects/Cross department/ADA Audit Workflow  Commune.md",
+    "Notion Import/Meeting Notes/Projects/Disaster Recovery Planning/Disaster Recovery Document Review.md",
+    "Notion Import/Meeting Notes/Projects/Cross department",
+    "Notion Import/Meeting Notes/Projects/MS Office 365 Migration",
+    "Notion Import/Meeting Notes/Projects/Disaster Recovery Planning",
+    "Notion Import/Meeting Notes/Projects/Customer Facing App/BE App discussion with Ray (Celerant).md",
+    "Notion Import/Meeting Notes/Projects/Customer Facing App",
+    "Notion Import/Meeting Notes/Projects/BI Meeting Notes/New Merch PowerBI Demo.md",
+    "Notion Import/Meeting Notes/Projects/BI Meeting Notes/Loren - BI.md",
+    "Notion Import/Meeting Notes/Loren & James.md",
+    "Notion Import/Meeting Notes/Projects/BI Meeting Notes",
+    "Notion Import/Meeting Notes/Projects/Customer Facing App/Customer App Kick-off Meeting.md",
     "Notion Import/Meeting Notes/Ad Hoc Meeting 2.md",
-    "Notion Import/Meeting Notes/Giftcard rebuild need.md",
-    "Notion Import/Meeting Notes/Google Template Meeting.md",
-    "Notion Import/Meeting Notes/Google Analytics Consult.md",
     "Notion Import/Meeting Notes/UKG Committee/2024-12-11 UKG New Team Meet and Greet.md",
-    "Notion Import/Meeting Notes/BE App discussion with Ray (Celerant).md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG Committee YEAR.md",
-    "Notion Import/Meeting Notes/Projects",
-    "Notion Import/Meeting Notes/UKG Committee/UKG Touch Base Meeting.md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG - Executive Business Review.md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG Committee 2025.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT MGMT Weekly Sync.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q1 2025.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs",
-    "conflict-files-obsidian-git.md",
-    "Training/True Colors Training.md",
-    "Training/Progressive Improvement.md",
-    "Training/PI Training.md",
-    "Training/On-boarding.md",
-    "Training/Cognos training list.md",
-    "Training/BetterCloud Administration.md",
-    "Training",
-    "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up/Audit Store Cameras - Check advocates are keeping up.md",
-    "Things to remember/Manager Audit Tasks/WireShark Logs.md",
-    "Things to remember/Manager Audit Tasks/Untitled.md",
-    "Things to remember/Manager Audit Tasks/Store Reports - IT Section.md",
-    "Things to remember/Manager Audit Tasks/Review Standby Call Sheet.md",
-    "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
-    "Things to remember/Manager Audit Tasks",
-    "Things to remember",
-    "Notepad"
+    "Notion Import/Meeting Notes/Projects"
   ]
 }
