@@ -1,18 +1,14 @@
----
-Created: 2024-07-30T11:23
-Last Edited Time: 2024-07-30T11:23
-Type: Weekly Staff
-Created By: Jeff Innes
----
-Starting Stuff:
+# Date
 
+## Starting Stuff:
+{Take Notes}
   
 
   
 
-Calendar (We go After Sabrina):
+## Calendar items to tell others about(We go After Sabrina):
 
-(Keep calendar to the week of)
+(Keep these items to the week of)
 
 Loren’s Meetings:
 
@@ -21,17 +17,18 @@ Loren’s Meetings:
 Dept PTO:
 
   
+{End of Calendar}
 
-Department updates (We go after R&M):
-
-  
-
-  
-
-Announcements:
+## Department updates (We go after R&M):
 
   
 
   
 
-Joke:
+## Announcements:
+
+  
+
+  
+
+## Joke:

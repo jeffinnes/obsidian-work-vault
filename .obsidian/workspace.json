@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/IT Dept Weekly Syncs/2025 Q3 IT Dept Weekly Syncs 1.md",
-                "mode": "preview",
-                "source": true
+                "file": "My Team/My Team.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Q3 IT Dept Weekly Syncs 1"
+              "title": "My Team"
             }
           }
         ]
@@ -182,13 +182,15 @@
   },
   "active": "054f204765ebde7a",
   "lastOpenFiles": [
-    "Meeting Notes/MGMT Dept Weekly Syncs/IT MGMT Weekly Sync.md",
-    "Meeting Notes/IT Dept Weekly Syncs/2025 Q3 IT Dept Weekly Syncs 1.md",
+    "Meeting Notes/Templates/Staff Head Meeting.md",
+    "Meeting Notes/Projects/Archived",
+    "Meeting Notes/Templates/YYYY Q0 IT Dept Weekly Syncs.md",
     "Meeting Notes/IT Dept Weekly Syncs/2025 Q3 IT Dept Weekly Syncs.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/Templates/YYYY Q0 IT MGMT Weekly Sync.md",
     "Meeting Notes/IT Dept Weekly Syncs/2024/2024 Q3 IT Dept Weekly Syncs.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2024/2024 Q3 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/IT Dept Weekly Syncs/2024",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q3 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2024",
     "Meeting Notes/IT Dept Weekly Syncs/2024/2024 Q4 IT Dept Weekly Syncs.md",
     "Meeting Notes/IT Dept Weekly Syncs/2025 Q2 IT Dept Weekly Syncs.md",
@@ -219,14 +221,11 @@
     "Meeting Notes/Sabrina Catch Up.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2024/2024 Q4 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q1 MGMT Dept Weekly Syncs.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q2 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/Vendor Meetings",
     "Meeting Notes/Professional Development",
     "Meeting Notes/Projects/Waitwhile",
     "Meeting Notes/Projects/MPOP",
     "Meeting Notes/Templates",
-    "Meeting Notes/Projects/New POS",
-    "Meeting Notes/Department Mgmt"
+    "Meeting Notes/Projects/New POS"
   ]
 }

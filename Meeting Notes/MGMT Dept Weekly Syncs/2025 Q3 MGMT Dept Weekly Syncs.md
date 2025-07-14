@@ -2,10 +2,8 @@
 Created: 2025-07-02T11:20
 Last Edited Time: 2025-07-09T11:35
 Type: Weekly Sync
-Created By: Jeff Innes
-Time Range: 2024-07-30
 ---
-# DATE
+# {DATE}
 
 ## Important Takeaways
 
