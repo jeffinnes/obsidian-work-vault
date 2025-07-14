@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Training/PI Training.md",
+                "file": "z_delete_this/True Colors Training.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "PI Training"
+              "title": "True Colors Training"
             }
           }
         ]
@@ -180,10 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "054f204765ebde7a",
+  "active": "4d8c28e03b1f6014",
   "lastOpenFiles": [
-    "Training/Cognos training list.md",
+    "Training/Progressive Improvement.md",
     "Training/BetterCloud Administration.md",
+    "Training/Cognos training list.md",
+    "Training/PI Training.md",
     "z_delete_this/On-boarding.md",
     "My Team/Members/zArchived/E&V Timeline.md",
     "My Team/My Team.md",
@@ -220,8 +222,6 @@
     "Meeting Notes/UKG/2024-12-11 UKG New Team Meet and Greet.md",
     "Meeting Notes/UKG/UKG Committee 2024.md",
     "Meeting Notes/UKG/UKG Committee 2025.md",
-    "Meeting Notes/UKG/UKG Committee YEAR.md",
-    "Meeting Notes/UKG/UKG Touch Base Meeting.md",
     "Meeting Notes/Vendor Meetings",
     "Meeting Notes/Professional Development",
     "Meeting Notes/Projects/Waitwhile",
