@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Team/My Team.md",
+                "file": "Training/PI Training.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "My Team"
+              "title": "PI Training"
             }
           }
         ]
@@ -182,6 +182,11 @@
   },
   "active": "054f204765ebde7a",
   "lastOpenFiles": [
+    "Training/Cognos training list.md",
+    "Training/BetterCloud Administration.md",
+    "z_delete_this/On-boarding.md",
+    "My Team/Members/zArchived/E&V Timeline.md",
+    "My Team/My Team.md",
     "Meeting Notes/Templates/Staff Head Meeting.md",
     "Meeting Notes/Projects/Archived",
     "Meeting Notes/Templates/YYYY Q0 IT Dept Weekly Syncs.md",
@@ -217,10 +222,6 @@
     "Meeting Notes/UKG/UKG Committee 2025.md",
     "Meeting Notes/UKG/UKG Committee YEAR.md",
     "Meeting Notes/UKG/UKG Touch Base Meeting.md",
-    "Meeting Notes/UKG/Webinar How to upgrade to UKG Authentication.md",
-    "Meeting Notes/Sabrina Catch Up.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2024/2024 Q4 MGMT Dept Weekly Syncs.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
     "Meeting Notes/Vendor Meetings",
     "Meeting Notes/Professional Development",
     "Meeting Notes/Projects/Waitwhile",
