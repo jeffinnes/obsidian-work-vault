@@ -5,7 +5,7 @@
 - To make forms accessible, and ensure labels are correctly associated with their input, each <label> element should have a “for” attribute with the same value as its <input>’s “id” attribute
 - When scheduling a task for the first time it made the first due date 1 week later than the actual due date
 
-![[/Untitled.png|Untitled.png]]
+![[Untitled.png|Untitled.png]]
 
 ![[Untitled 1.png]]
 

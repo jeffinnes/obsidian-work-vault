@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "288dfe7d4d164bf8",
+        "id": "a1b3d2f0c0d18813",
         "type": "tabs",
         "children": [
           {
-            "id": "fee6d11dc028530f",
+            "id": "054f204765ebde7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion Import/Meeting Notes/Projects/Customer Facing App/Customer App Kick-off Meeting.md",
+                "file": "Brain Dumps/2024 List of achievements for Loren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Customer App Kick-off Meeting"
-            }
-          },
-          {
-            "id": "f84b52921a18d021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion Import/Meeting Notes/Projects/Customer Facing App/BE App discussion with Ray (Celerant).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BE App discussion with Ray (Celerant)"
-            }
-          },
-          {
-            "id": "12ce62285c289e84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q4 MGMT Dept Weekly Syncs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024 Q4 MGMT Dept Weekly Syncs"
+              "title": "2024 List of achievements for Loren"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,43 +180,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12ce62285c289e84",
+  "active": "054f204765ebde7a",
   "lastOpenFiles": [
-    "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q3 MGMT Dept Weekly Syncs.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q4 MGMT Dept Weekly Syncs.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
+    "Brain Dumps/Buffalo Dispatch interview questions.md",
+    "Brain Dumps/Notepad.md",
+    "Brain Dumps/2024 List of achievements for Loren.md",
+    "Things to remember/Untitled.png",
+    "z_delete_this/image 1.png",
+    "z_delete_this/image 2.png",
+    "z_delete_this/image 3.png",
+    "Rando Code Snips.md",
+    "z_delete_this/Untitled 1.png",
+    "z_delete_this/Untitled 2.png",
+    "z_delete_this/Untitled 3.png",
+    "z_delete_this",
+    "2022_Jeff_Innes_(2).jpg",
+    "fellowship_silloette.jpg",
+    "2022_Randall_Duke.jpg",
+    "Meeting Notes/MGMT Dept Weekly Syncs/IT MGMT Weekly Sync.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q4 2024.md",
+    "Meeting Notes/IT Dept Weekly Syncs/IT MGMT Weekly Sync 2.md",
+    "Meeting Notes/UKG/UKG - Executive Business Review.md",
+    "Meeting Notes/UKG/2024-12-11 UKG New Team Meet and Greet.md",
+    "Meeting Notes/UKG/UKG Committee 2024.md",
+    "Meeting Notes/UKG/UKG Committee 2025.md",
+    "Meeting Notes/UKG/UKG Committee YEAR.md",
+    "Meeting Notes/UKG/UKG Touch Base Meeting.md",
+    "Meeting Notes/UKG/Webinar How to upgrade to UKG Authentication.md",
+    "Meeting Notes/Sabrina Catch Up.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q4 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q1 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q2 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/Sabrina feedback about things that happened during the 7-29 week.md",
-    "Meeting Notes/Sabrina Catch Up.md",
     "Meeting Notes/Projects/Loren-James Project Catchup.md",
     "Meeting Notes/Delete us/James-Loren - Upcoming Server Replacement Projects.md",
     "Meeting Notes/Vendor Meetings/Twilio Account Review.md",
-    "Meeting Notes/UKG/Webinar How to upgrade to UKG Authentication.md",
     "Meeting Notes/Vendor Meetings",
     "Meeting Notes/Professional Development/Thanks for the Feedback - Book Club Meeting Notes.md",
-    "Meeting Notes/Professional Development/Book Title Book Club Meeting Notes.md",
-    "Meeting Notes/Professional Development/1-1 with Loren.md",
     "Meeting Notes/Professional Development",
-    "Meeting Notes/Projects/Warehouse Project.md",
-    "Meeting Notes/Projects/Whse Intake Improvement.md",
-    "Meeting Notes/Projects/Waitwhile/Waitwhile Demo.md",
-    "Meeting Notes/Delete us/Upwork Enterprise Intro Call.md",
     "Meeting Notes/Projects/Waitwhile",
-    "Meeting Notes/Delete us/Upwork Enterprise.md",
-    "Meeting Notes/Projects/BI Meeting Notes/Syncfusion-BoldBI Exploration Meeting.md",
-    "Meeting Notes/Projects/MPOP/Star Micronics Discovery Call.md",
     "Meeting Notes/Projects/MPOP",
-    "Meeting Notes/Templates/Staff Head Meeting.md",
     "Meeting Notes/Templates",
-    "Meeting Notes/Delete us/Shared Sync Meeting with Steve.md",
-    "Meeting Notes/Projects/Disaster Recovery Planning/Ransomware recovery check-in.md",
-    "Meeting Notes/Projects/PayPal Returns - Timeline Planning.md",
     "Meeting Notes/Projects/New POS",
-    "Meeting Notes/Department Management",
+    "Meeting Notes/Department Mgmt",
     "Meeting Notes/Delete us",
-    "Meeting Notes/Projects/Internal Apps",
-    "Meeting Notes/Projects/Cross department"
+    "Meeting Notes/Projects/Internal Apps"
   ]
 }
