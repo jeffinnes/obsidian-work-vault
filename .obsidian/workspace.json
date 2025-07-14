@@ -11,14 +11,14 @@
             "id": "7b23de1d65d3358b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Notepad/Notepad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Notepad"
             }
           }
         ]
