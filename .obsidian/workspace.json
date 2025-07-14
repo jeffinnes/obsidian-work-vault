@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q3 MGMT Dept Weekly Syncs.md",
-                "mode": "source",
-                "source": false
+                "file": "Meeting Notes/IT Dept Weekly Syncs/2025 Q3 IT Dept Weekly Syncs 1.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025 Q3 MGMT Dept Weekly Syncs"
+              "title": "2025 Q3 IT Dept Weekly Syncs 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,14 @@
   "active": "054f204765ebde7a",
   "lastOpenFiles": [
     "Meeting Notes/MGMT Dept Weekly Syncs/IT MGMT Weekly Sync.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/IT Dept Weekly Syncs/2025 Q3 IT Dept Weekly Syncs 1.md",
     "Meeting Notes/IT Dept Weekly Syncs/2025 Q3 IT Dept Weekly Syncs.md",
-    "Meeting Notes/IT Dept Weekly Syncs/2024 Q4 IT Dept Weekly Syncs.md",
-    "Meeting Notes/IT Dept Weekly Syncs/2024 Q3 IT Dept Weekly Syncs.md",
+    "Meeting Notes/IT Dept Weekly Syncs/2024/2024 Q3 IT Dept Weekly Syncs.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2024/2024 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/IT Dept Weekly Syncs/2024",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2024",
+    "Meeting Notes/IT Dept Weekly Syncs/2024/2024 Q4 IT Dept Weekly Syncs.md",
     "Meeting Notes/IT Dept Weekly Syncs/2025 Q2 IT Dept Weekly Syncs.md",
     "Meeting Notes/IT Dept Weekly Syncs/2025 Q1 IT Dept Weekly Syncs.md",
     "Brain Dumps/2024 List of achievements for Loren.md",
@@ -213,20 +217,16 @@
     "Meeting Notes/UKG/UKG Touch Base Meeting.md",
     "Meeting Notes/UKG/Webinar How to upgrade to UKG Authentication.md",
     "Meeting Notes/Sabrina Catch Up.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q4 MGMT Dept Weekly Syncs.md",
-    "Meeting Notes/MGMT Dept Weekly Syncs/2024 Q3 MGMT Dept Weekly Syncs.md",
+    "Meeting Notes/MGMT Dept Weekly Syncs/2024/2024 Q4 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q1 MGMT Dept Weekly Syncs.md",
     "Meeting Notes/MGMT Dept Weekly Syncs/2025 Q2 MGMT Dept Weekly Syncs.md",
-    "Meeting Notes/Sabrina feedback about things that happened during the 7-29 week.md",
     "Meeting Notes/Vendor Meetings",
     "Meeting Notes/Professional Development",
     "Meeting Notes/Projects/Waitwhile",
     "Meeting Notes/Projects/MPOP",
     "Meeting Notes/Templates",
     "Meeting Notes/Projects/New POS",
-    "Meeting Notes/Department Mgmt",
-    "Meeting Notes/Delete us",
-    "Meeting Notes/Projects/Internal Apps"
+    "Meeting Notes/Department Mgmt"
   ]
 }
