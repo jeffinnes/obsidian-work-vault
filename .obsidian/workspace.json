@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f98018354c0225f",
+        "id": "4d7eb94f8eb707e6",
         "type": "tabs",
         "children": [
           {
-            "id": "8c4bf232e76f9804",
+            "id": "531b25078566401c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "My Team/Members/2022_Jeff_Innes_(2).jpg"
-              },
-              "icon": "lucide-image",
-              "title": "2022_Jeff_Innes_(2)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -157,6 +155,20 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "c23adba750dfb84a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
