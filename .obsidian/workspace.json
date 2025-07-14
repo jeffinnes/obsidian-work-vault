@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1810440bd20498",
+        "id": "288dfe7d4d164bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "7b23de1d65d3358b",
+            "id": "fee6d11dc028530f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notion Import/Meeting Notes/BE App discussion with Ray (Celerant).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BE App discussion with Ray (Celerant)"
             }
           }
         ]
@@ -176,38 +180,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23a2e528c9c10107",
+  "active": "fee6d11dc028530f",
   "lastOpenFiles": [
-    "Notion Import/Meeting Notes/UKG Committee/UKG Touch Base Meeting.md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG Committee YEAR.md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG Committee 2025.md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG Committee 2024.md",
-    "Notion Import/Meeting Notes/UKG Committee/UKG - Executive Business Review.md",
+    "Notion Import/Meeting Notes/1-1 with Loren.md",
+    "Notion Import/Meeting Notes/Ad Hoc Meeting 2.md",
+    "Notion Import/Meeting Notes/Giftcard rebuild need.md",
+    "Notion Import/Meeting Notes/Google Template Meeting.md",
+    "Notion Import/Meeting Notes/Google Analytics Consult.md",
     "Notion Import/Meeting Notes/UKG Committee/2024-12-11 UKG New Team Meet and Greet.md",
-    "Notion Import/Meeting Notes/UKG Committee",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs Q3 2024.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q4 2024.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q3 2025.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q2 2025.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q1 2025.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
-    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs",
+    "Notion Import/Meeting Notes/BE App discussion with Ray (Celerant).md",
+    "Notion Import/Meeting Notes/UKG Committee/UKG Committee YEAR.md",
+    "Notion Import/Meeting Notes/Projects",
+    "Notion Import/Meeting Notes/UKG Committee/UKG Touch Base Meeting.md",
+    "Notion Import/Meeting Notes/UKG Committee/UKG - Executive Business Review.md",
+    "Notion Import/Meeting Notes/UKG Committee/UKG Committee 2025.md",
     "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT MGMT Weekly Sync.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT MGMT Weekly Sync 2.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q4 2024.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q3 2025.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q3 2024.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q2 2025.md",
+    "Notion Import/Meeting Notes/MGMT Dept Weekly Syncs/MGMT Dept Weekly Syncs  Q.md",
     "Notion Import/Meeting Notes/IT Dept Weekly Syncs/IT Dept Weekly Syncs Q1 2025.md",
     "Notion Import/Meeting Notes/IT Dept Weekly Syncs",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs Q.md",
-    "Notion Import/Meeting Notes/IT Dept Weekly Syncs Q1 2025.md",
-    "Notion Import/Meeting Notes/Loren - Dev team request management/Loren - Dev team request management.md",
-    "Notion Import/Meeting Notes/UKG Committee 2025/UKG Committee 2025.md",
-    "Notepad/Notepad.md",
     "conflict-files-obsidian-git.md",
     "Training/True Colors Training.md",
+    "Training/Progressive Improvement.md",
+    "Training/PI Training.md",
+    "Training/On-boarding.md",
+    "Training/Cognos training list.md",
+    "Training/BetterCloud Administration.md",
     "Training",
+    "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up/Audit Store Cameras - Check advocates are keeping up.md",
+    "Things to remember/Manager Audit Tasks/WireShark Logs.md",
+    "Things to remember/Manager Audit Tasks/Untitled.md",
+    "Things to remember/Manager Audit Tasks/Store Reports - IT Section.md",
+    "Things to remember/Manager Audit Tasks/Review Standby Call Sheet.md",
     "Things to remember/Manager Audit Tasks/Audit Store Cameras - Check advocates are keeping up",
     "Things to remember/Manager Audit Tasks",
     "Things to remember",
