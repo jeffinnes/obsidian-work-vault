@@ -20,12 +20,12 @@
 ## Tuesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Order new APCs?
+- [ ] Order new APCs
 - [ ] Review TFirst Backstock Log feedback some more
 - [ ] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
