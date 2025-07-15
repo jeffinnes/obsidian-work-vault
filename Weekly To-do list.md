@@ -30,9 +30,9 @@
 	- [x] Respond and ask for clarification
 - [x] Timesheet stuff
 - [x] MS Office Onboarding Test with Tonya
-- [ ] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
+- [x] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [x] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
-- [ ] 
+- [ ] Microage Audit
 - [ ] Github Issue Migration
 
 ---
@@ -44,7 +44,7 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 
 
 ---
