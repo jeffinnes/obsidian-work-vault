@@ -21,7 +21,7 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] Update tickets at 11a
+- [x] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
@@ -32,7 +32,7 @@
 - [ ] MS Office Onboarding Test with Tonya
 - [ ] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
-- [ ] 
+- [ ] Github Issue Migration
 
 ---
 ## Wednesday
