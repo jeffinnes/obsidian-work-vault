@@ -3,86 +3,70 @@
 ## Monday
 
 ---
-
+### Repeat Tasks
 - [x] Check Grafana
 - [x] IT Ticket Report
 - [x] Connecteam startdate script
-
-- [ ]
-
 - [ ] Professional Development Activity
+### Daily Tasks
+- [x] Obsidian Migration
+- [x] Review Max's web safety guide
+- [x] Show Max Computer Tips page editing
+- [ ] More ATS issues yay
 
   
-
+---
 ## Tuesday
 
----
-
+### Repeat Tasks
 - [ ] Check Grafana
-
-- [ ]
-
 - [ ] Update tickets at 11a
 - [ ] IT Dept Meeting
-
-- [ ]
-
 - [ ] Professional Development Activity
+### Daily Tasks
+- [ ]   Order new APCs?
 
-  
-
+---
 ## Wednesday
 
----
 
+### Repeat Tasks
 - [ ] Check Grafana
-
-- [ ]
-
 - [ ] IT Mgr Meeting
 - [ ] Store Reports if Loren isn’t in
-
-- [ ]
-
 - [ ] Professional Development Activity
+### Daily Tasks
+- [ ] 
 
-  
-
-  
-
-## Thursday
 
 ---
+## Thursday
 
+### Repeat Tasks
 - [ ] Check Grafana
-
-- [ ]
-
 - [ ] Professional Development Activity
-
-  
+### Daily Tasks
+- [ ] 
 
 ## Friday
 
 ---
-
+### Repeat Tasks
 - [ ] Check Grafana
 - [ ] SamsPal uploads
-
-- [ ]
-
 - [ ] Professional Development Activity
+### Daily Tasks
+- [ ] 
 
   
-
+---
 ## Saturday / Sunday
 
----
-
-- [ ]
+- [ ] 
 
   
-
+---
+---
 ## Next week’s planned and rollover items
 
 - [ ] Pins for some kind of little tangible rewards
@@ -117,15 +101,11 @@ _These are things that aren’t really tasks, but I want to keep a reminder abou
     - [ ] test
     - [ ] send all clear
 
-Samspal now stands for “Storage and Management System for Payment Authorization Logging”
-
-Build out Setting up new project documentation
-
-Check out SendGrid’s dynamic email templates
-
-Could the MPOS become a POS system for the outlet stores?
-
-SMS to store iPhone alert blast
+- Samspal now stands for “Storage and Management System for Payment Authorization Logging”
+- Build out Setting up new project documentation
+- Check out SendGrid’s dynamic email templates
+- Could the MPOS become a POS system for the outlet stores?
+- SMS to store iPhone alert blast
 
   
 
