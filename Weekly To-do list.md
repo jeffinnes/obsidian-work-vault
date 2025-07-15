@@ -26,7 +26,9 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Order new APCs
-- [ ] Review TFirst Backstock Log feedback some more
+- [x] Review TFirst Backstock Log feedback some more
+	- [ ] Respond and ask for clarification
+- [ ] Timesheet stuff
 - [ ] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
 - [ ] 
