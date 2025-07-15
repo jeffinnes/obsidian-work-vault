@@ -3,6 +3,7 @@ Created: 2025-07-01T12:29
 Type: Weekly Sync
 Created By: Jeff Innes
 ---
+
 # July 8, 2025
 
 ## From Staff?
