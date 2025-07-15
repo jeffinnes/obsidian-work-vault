@@ -22,16 +22,17 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [x] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Order new APCs
 - [x] Review TFirst Backstock Log feedback some more
 	- [x] Respond and ask for clarification
-- [ ] Timesheet stuff
-- [ ] MS Office Onboarding Test with Tonya
+- [x] Timesheet stuff
+- [x] MS Office Onboarding Test with Tonya
 - [ ] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
-- [ ] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
+- [x] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
+- [ ] 
 - [ ] Github Issue Migration
 
 ---
