@@ -12,7 +12,8 @@
 - [x] Review Max's web safety guide
 - [x] Show Max Computer Tips page editing
 - [x] More ATS issues yay
-- [ ] Review TFirst Backstock Log feedback
+- [x] There was something else I worked on a bunch today but now I can't remember
+- [x] Review TFirst Backstock Log feedback
 
   
 ---
@@ -25,7 +26,9 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Order new APCs?
-- [ ] Code review (CTK PR 127)https://github.com/buffaloexchange/celeranttoolkit/pull/127 
+- [ ] Review TFirst Backstock Log feedback some more
+- [ ] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
+- [ ] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
 - [ ] 
 
 ---
