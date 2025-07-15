@@ -2,7 +2,6 @@
 
 ## Monday
 
----
 ### Repeat Tasks
 - [x] Check Grafana
 - [x] IT Ticket Report
@@ -12,7 +11,8 @@
 - [x] Obsidian Migration
 - [x] Review Max's web safety guide
 - [x] Show Max Computer Tips page editing
-- [ ] More ATS issues yay
+- [x] More ATS issues yay
+- [ ] Review TFirst Backstock Log feedback
 
   
 ---
@@ -24,11 +24,12 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ]   Order new APCs?
+- [ ] Order new APCs?
+- [ ] Code review (CTK PR 127)https://github.com/buffaloexchange/celeranttoolkit/pull/127 
+- [ ] 
 
 ---
 ## Wednesday
-
 
 ### Repeat Tasks
 - [ ] Check Grafana
@@ -48,9 +49,9 @@
 ### Daily Tasks
 - [ ] 
 
+---
 ## Friday
 
----
 ### Repeat Tasks
 - [ ] Check Grafana
 - [ ] SamsPal uploads
