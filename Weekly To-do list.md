@@ -45,9 +45,9 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] LiquidWeb backup storage alert
-	- [ ] Follow up
+	- [x] Follow up
+	- [ ] Clean up extra backup
 - [x] Review Max's documentation
-- [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Microage Audit
 - [x] Autodesk renewal thing - why alex?
 - [ ] Github Issue Migration
@@ -60,7 +60,7 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 
 ---
 ## Friday
