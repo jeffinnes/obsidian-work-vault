@@ -46,12 +46,16 @@
 ### Daily Tasks
 - [x] LiquidWeb backup storage alert
 	- [x] Follow up
-	- [ ] Clean up extra backup
+	- [x] Clean up extra backup
+	- [ ] Run back ups
 - [x] Review Max's documentation
-- [ ] Budgeting Items
-	- [ ] Microage Audit
-	- [ ] Wrap up licenses and fees
+- [x] Budgeting Items
+	- [ ] MicroAge Audit
+	- To be concluded when Tonya can help pull some auths
+	- [x] Wrap up licenses and fees
+	- [x] Wages tab
 - [x] Autodesk renewal thing - why alex?
+- [ ] Open Source Donation
 - [ ] Github Issue Migration
 
 
