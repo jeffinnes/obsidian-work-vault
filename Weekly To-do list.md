@@ -41,7 +41,7 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] LiquidWeb backup storage alert
