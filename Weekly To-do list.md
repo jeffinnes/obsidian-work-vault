@@ -56,6 +56,8 @@
 	- [x] Wages tab
 - [x] Autodesk renewal thing - why alex?
 - [ ] Open Source Donation
+	- [ ] UltraVNC
+	- [ ] Coolify
 - [ ] Github Issue Migration
 
 
