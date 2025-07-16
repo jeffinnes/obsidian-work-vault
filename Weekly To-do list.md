@@ -48,7 +48,9 @@
 	- [x] Follow up
 	- [ ] Clean up extra backup
 - [x] Review Max's documentation
-- [ ] Microage Audit
+- [ ] Budgeting Items
+	- [ ] Microage Audit
+	- [ ] Wrap up licenses and fees
 - [x] Autodesk renewal thing - why alex?
 - [ ] Github Issue Migration
 
