@@ -49,7 +49,7 @@
 - [x] Review Max's documentation
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Microage Audit
-- [ ] Autodesk renewal thing - why alex?
+- [x] Autodesk renewal thing - why alex?
 - [ ] Github Issue Migration
 
 
