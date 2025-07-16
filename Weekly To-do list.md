@@ -45,6 +45,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] LiquidWeb backup storage alert
+- [ ] Review Max's documentation
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Microage Audit
 - [ ] Autodesk renewal thing - why alex?
