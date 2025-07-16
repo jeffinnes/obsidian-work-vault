@@ -44,7 +44,8 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] LiquidWeb backup storage alert
+- [x] LiquidWeb backup storage alert
+	- [ ] Follow up
 - [ ] Review Max's documentation
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Microage Audit
