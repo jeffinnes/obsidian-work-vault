@@ -32,7 +32,7 @@
 - [x] MS Office Onboarding Test with Tonya
 - [x] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [x] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
-- [ ] Microage Audit
+- [x] Microage Audit
 - [ ] Github Issue Migration
 
 ---
@@ -45,6 +45,8 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
+- [ ] Microage Audit
+- [ ] Github Issue Migration
 
 
 ---
