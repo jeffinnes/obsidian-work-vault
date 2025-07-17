@@ -72,7 +72,8 @@
 	- [ ] UltraVNC - 50
 	- [ ] Coolify - 50
 	- [ ] Auth.js - 25
-	- [ ] GitHub upload list - 275
+	- [ ] react-hook-form maintainers - 30 (10x3)
+	- [ ] GitHub upload list - 245
 
 ---
 ## Friday
