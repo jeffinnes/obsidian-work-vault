@@ -55,11 +55,8 @@
 	- [x] Wrap up licenses and fees
 	- [x] Wages tab
 - [x] Autodesk renewal thing - why alex?
-- [ ] Open Source Donation
-	- [ ] UltraVNC
-	- [ ] Coolify
-	- [ ] GitHub upload list
-- [ ] Github Issue Migration
+
+- [x] Github Issue Migration
 
 
 ---
@@ -70,6 +67,11 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
+- [ ] Design system migration
+- [ ] Open Source Donation
+	- [ ] UltraVNC
+	- [ ] Coolify
+	- [ ] GitHub upload list
 
 ---
 ## Friday
