@@ -47,10 +47,10 @@
 - [x] LiquidWeb backup storage alert
 	- [x] Follow up
 	- [x] Clean up extra backup
-	- [ ] Run back ups
+	- [x] Run back ups
 - [x] Review Max's documentation
 - [x] Budgeting Items
-	- [ ] MicroAge Audit
+	- [x] MicroAge Audit
 	- To be concluded when Tonya can help pull some auths
 	- [x] Wrap up licenses and fees
 	- [x] Wages tab
@@ -63,7 +63,7 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
