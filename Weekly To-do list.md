@@ -71,8 +71,8 @@
 - [ ] Open Source Donation
 	- [ ] UltraVNC - 50
 	- [ ] Coolify - 50
-	- [ ] Auth.js - 50
-	- [ ] GitHub upload list - 250
+	- [ ] Auth.js - 25
+	- [ ] GitHub upload list - 275
 
 ---
 ## Friday
