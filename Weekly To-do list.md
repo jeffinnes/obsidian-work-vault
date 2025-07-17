@@ -73,11 +73,12 @@
 - [ ] Cellphone Auth
 - [ ] Microage Auth
 - [ ] Open Source Donation
-	- [ ] UltraVNC - 50
-	- [ ] Coolify - 50
-	- [ ] Auth.js - 25
-	- [ ] react-hook-form maintainers - 30 (10x3)
-	- [ ] GitHub upload list - 245
+	- [x] UltraVNC - 50
+	- [x] Coolify - 50
+	- [x] Auth.js - 25
+	- [x] react-hook-form maintainers - 30 (10x3)
+	- [x] GitHub upload list - 245
+ Open Source Contribution
 
 ---
 ## Friday
