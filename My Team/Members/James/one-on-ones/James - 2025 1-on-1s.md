@@ -159,13 +159,9 @@ ___
 
 What has been working well? Is there anything getting in your way or any additional support you need?
 
-For the VPN speed issues
+For the VPN speed issues > Need time to restart the GA firewall
+- July 4
 
-Need time to restart the GA firewall
-
-July 4
-
-  
 
 We need to figure out the easiest way to onboard the Office 365 GA users into the cloud auth. GA deployment goal for 365 is the first week of August.
 
@@ -193,7 +189,7 @@ If the MGMT team doesn’t have one to assign, or you have already completed wha
 
 The point of this is to make sure we are actually getting value out of Pluralsight so Loren will be checking to see if it’s used.
 
-  
+  For July: GitHub & TBD
 
 ## Any other issues or concerns
 
