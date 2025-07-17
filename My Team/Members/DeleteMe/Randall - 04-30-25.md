@@ -12,10 +12,6 @@ MPOP Changes
 
 BI - Monica liked, had a couple changes to request
 
-  
-
-  
-
 ## Feedback
 
 ### From management to you:
