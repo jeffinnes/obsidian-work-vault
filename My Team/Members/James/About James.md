@@ -1,8 +1,10 @@
 Fill out and use each section as needed. Remember not to get stuck in too rigid of a mindset.
 
 # About
+- 
 
-# [Human]’s Goals
+# James’ Goals
+- 
 
 # Professional Development
 
@@ -10,15 +12,12 @@ Current: Next.js
 
 # Career track
 
-Annual eval date: Dec something
-
-Next position: Dev 2
+Annual eval date: 5/5
+Next position: n/a
 
   
 
 To Do:
-
-- [ ] Build a Next.js app (Probably promo/eval app)
-- [x] Re-read employee handbook
+- 
 
 # Projects and Tasks

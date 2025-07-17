@@ -8,10 +8,6 @@ tags:
 
 What has been working well? Is there anything getting in your way or any additional support you need?
 
-  
-
-  
-
 ## Feedback
 
 ### From management to you:
