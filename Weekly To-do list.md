@@ -68,6 +68,7 @@
 ### Daily Tasks
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Design system migration
+- [x] Help Loren Find out what's up with the Computer Supplies budget
 - [ ] Open Source Donation
 	- [ ] UltraVNC - 50
 	- [ ] Coolify - 50
