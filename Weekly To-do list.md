@@ -69,9 +69,10 @@
 - [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 - [ ] Design system migration
 - [ ] Open Source Donation
-	- [ ] UltraVNC
-	- [ ] Coolify
-	- [ ] GitHub upload list
+	- [ ] UltraVNC - 50
+	- [ ] Coolify - 50
+	- [ ] Auth.js - 50
+	- [ ] GitHub upload list - 250
 
 ---
 ## Friday
