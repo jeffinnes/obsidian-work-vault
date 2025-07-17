@@ -70,6 +70,8 @@
 - [ ] Design system migration
 - [x] Help Loren Find out what's up with the Computer Supplies budget
 - [x] Clean up 1:1 notes and make Obsidian template
+- [ ] Cellphone Auth
+- [ ] Microage Auth
 - [ ] Open Source Donation
 	- [ ] UltraVNC - 50
 	- [ ] Coolify - 50
