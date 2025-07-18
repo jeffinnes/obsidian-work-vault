@@ -68,7 +68,7 @@
 ### Daily Tasks
 - [x] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
 	- Just need to wait for Randall to address the comment I left
-- [ ] Design system migration
+- [x] Design system migration
 - [x] Help Loren Find out what's up with the Computer Supplies budget
 - [x] Clean up 1:1 notes and make Obsidian template
 - [x] Cellphone Auth
@@ -92,6 +92,7 @@
 	- [ ] Cellphone Auth
 	- [ ] Microage Auth
 	- [ ] Open Source Donation
+- [ ] More budget prep
 
   
 ---
