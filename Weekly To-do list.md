@@ -84,15 +84,16 @@
 ## Friday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Turn in auths for
-	- [ ] Cellphone Auth
+	- [x] Cellphone Auth
 	- [ ] Microage Auth
 	- [ ] Open Source Donation
 - [x] FInish budget prep
+- [ ] 
 
   
 ---
