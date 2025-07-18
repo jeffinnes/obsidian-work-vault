@@ -66,19 +66,19 @@
 - [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
+- [x] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
+	- Just need to wait for Randall to address the comment I left
 - [ ] Design system migration
 - [x] Help Loren Find out what's up with the Computer Supplies budget
 - [x] Clean up 1:1 notes and make Obsidian template
-- [ ] Cellphone Auth
-- [ ] Microage Auth
-- [ ] Open Source Donation
+- [x] Cellphone Auth
+- [x] Microage Auth
+- [x] Open Source Donation
 	- [x] UltraVNC - 50
 	- [x] Coolify - 50
 	- [x] Auth.js - 25
 	- [x] react-hook-form maintainers - 30 (10x3)
 	- [x] GitHub upload list - 245
- Open Source Contribution
 
 ---
 ## Friday
@@ -88,7 +88,10 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Turn in auths for
+	- [ ] Cellphone Auth
+	- [ ] Microage Auth
+	- [ ] Open Source Donation
 
   
 ---
