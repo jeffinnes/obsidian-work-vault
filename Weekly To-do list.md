@@ -92,7 +92,7 @@
 	- [ ] Cellphone Auth
 	- [ ] Microage Auth
 	- [ ] Open Source Donation
-- [ ] More budget prep
+- [x] FInish budget prep
 
   
 ---
