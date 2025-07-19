@@ -88,12 +88,12 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Turn in auths for
+- [x] Turn in auths for
 	- [x] Cellphone Auth
 	- [x] Microage Auth
-	- [ ] Open Source Donation
+	- [x] Open Source Donation
 - [x] FInish budget prep
-- [ ] 
+- [x] Backstock Log work
 
   
 ---
