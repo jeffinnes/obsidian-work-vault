@@ -90,7 +90,7 @@
 ### Daily Tasks
 - [ ] Turn in auths for
 	- [x] Cellphone Auth
-	- [ ] Microage Auth
+	- [x] Microage Auth
 	- [ ] Open Source Donation
 - [x] FInish budget prep
 - [ ] 
