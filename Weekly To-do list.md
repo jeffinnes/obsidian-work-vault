@@ -16,7 +16,7 @@
 - [x] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
 - [x] Fontawesome Auth
 - [x] Add Backstock notes as issues to Github repo
-- [ ] Backstock Log
+- [x] Backstock Log
 
   
 ---
