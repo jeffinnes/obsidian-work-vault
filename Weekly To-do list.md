@@ -8,7 +8,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Return to office stuff
-- [ ] Email Catch up
+- [x] Email Catch up
 - [x] Meeting 1 re: Office deployment
 - [x] Meeting 2 - Mgr scheduling meeting and also James/CA12 internet
 - [x] Meeting 3 - More James/CA12 internet finalized my Fri sched
