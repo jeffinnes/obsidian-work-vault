@@ -13,7 +13,9 @@
 - [x] Meeting 2 - Mgr scheduling meeting and also James/CA12 internet
 - [x] Meeting 3 - More James/CA12 internet finalized my Fri sched
 - [ ] Order the rest of the GA Office 365 licenses
+- [ ] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
 - [ ] Fontawesome Auth
+- [ ] Add Backstock notes as issues to Github repo
 
   
 ---
