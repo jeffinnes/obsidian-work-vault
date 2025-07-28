@@ -3,13 +3,13 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] IT Ticket Report
+- [x] IT Ticket Report
 - [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Return to office stuff
 - [ ] Email Catch up
-- [ ] 
+- [ ] Order the rest of the GA Office 365 licenses
 
   
 ---
