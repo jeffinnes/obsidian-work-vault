@@ -1,11 +1,10 @@
-> [!important] ==Color Key<br>Blue: Ongoing task that repeats multiple times per week. It should be unchecked instead of deleted during the weekly reset.<br>Gray: Repeating weekly task<br>==
 
 ## Monday
 
 ### Repeat Tasks
 - [x] Check Grafana
 - [ ] IT Ticket Report
-- [ ] Connecteam startdate script
+- [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Return to office stuff
