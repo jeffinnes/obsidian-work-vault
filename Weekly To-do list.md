@@ -8,7 +8,7 @@
 - [ ] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Return to office stuff
+- [x] Return to office stuff
 - [ ] Email Catch up
 - [ ] 
 
