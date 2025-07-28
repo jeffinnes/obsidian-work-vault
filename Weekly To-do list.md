@@ -3,11 +3,13 @@
 ## Monday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] IT Ticket Report
 - [ ] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] Return to office stuff
+- [ ] Email Catch up
 - [ ] 
 
   
