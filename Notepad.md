@@ -34,3 +34,10 @@ Monica improvement
 - Could have an app that they enter the details and sends an email and writes to Celerant or makes an import file
 
 
+
+CA12 - James took the ticket but didn't send the email
+- Max turned off Waitwhile
+- Meet with James
+	- To gather the details about what happened
+	- Reiterate that the email needs to go out and documentation needs to be made.
+- Write up a WMTD
