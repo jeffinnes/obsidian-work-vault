@@ -41,3 +41,5 @@ CA12 - James took the ticket but didn't send the email
 	- To gather the details about what happened
 	- Reiterate that the email needs to go out and documentation needs to be made.
 - Write up a WMTD
+
+9:30 - 6 for Friday
