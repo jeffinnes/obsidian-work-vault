@@ -15,7 +15,7 @@
 - [x] Order the rest of the GA Office 365 licenses
 - [ ] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
 - [ ] Fontawesome Auth
-- [ ] Add Backstock notes as issues to Github repo
+- [x] Add Backstock notes as issues to Github repo
 
   
 ---
