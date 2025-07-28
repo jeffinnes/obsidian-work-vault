@@ -14,8 +14,9 @@
 - [x] Meeting 3 - More James/CA12 internet finalized my Fri sched
 - [x] Order the rest of the GA Office 365 licenses
 - [ ] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
-- [ ] Fontawesome Auth
+- [x] Fontawesome Auth
 - [x] Add Backstock notes as issues to Github repo
+- [ ] Backstock Log
 
   
 ---
@@ -27,7 +28,7 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Backstock Log
 
 ---
 ## Wednesday
