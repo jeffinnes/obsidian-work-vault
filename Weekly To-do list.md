@@ -13,7 +13,7 @@
 - [x] Meeting 2 - Mgr scheduling meeting and also James/CA12 internet
 - [x] Meeting 3 - More James/CA12 internet finalized my Fri sched
 - [x] Order the rest of the GA Office 365 licenses
-- [ ] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
+- [x] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
 - [x] Fontawesome Auth
 - [x] Add Backstock notes as issues to Github repo
 - [ ] Backstock Log
@@ -28,6 +28,7 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] Update and announce ticket count
 - [ ] Backstock Log
 
 ---
@@ -39,7 +40,7 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Update and announce ticket count
 
 
 ---
@@ -49,7 +50,7 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Update and announce ticket count
 
 ---
 ## Friday
@@ -59,7 +60,7 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Update and announce ticket count
 
   
 ---
