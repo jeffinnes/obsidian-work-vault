@@ -3,97 +3,55 @@
 ## Monday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Ticket Report
-- [x] Connecteam startdate script
+- [ ] Check Grafana
+- [ ] IT Ticket Report
+- [ ] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Obsidian Migration
-- [x] Review Max's web safety guide
-- [x] Show Max Computer Tips page editing
-- [x] More ATS issues yay
-- [x] There was something else I worked on a bunch today but now I can't remember
-- [x] Review TFirst Backstock Log feedback
+- [ ] 
 
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Check Grafana
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Order new APCs
-- [x] Review TFirst Backstock Log feedback some more
-	- [x] Respond and ask for clarification
-- [x] Timesheet stuff
-- [x] MS Office Onboarding Test with Tonya
-- [x] Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
-- [x] Code review [PayPal Script PR 26](https://github.com/buffaloexchange/store-paypal-payout/pull/26)
-- [x] Microage Audit
-- [ ] Github Issue Migration
+- [ ] 
 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] IT Mgr Meeting
-- [x] Store Reports if Loren isn’t in
+- [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] LiquidWeb backup storage alert
-	- [x] Follow up
-	- [x] Clean up extra backup
-	- [x] Run back ups
-- [x] Review Max's documentation
-- [x] Budgeting Items
-	- [x] MicroAge Audit
-	- To be concluded when Tonya can help pull some auths
-	- [x] Wrap up licenses and fees
-	- [x] Wages tab
-- [x] Autodesk renewal thing - why alex?
-
-- [x] Github Issue Migration
+- [ ] 
 
 
 ---
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Finish Code review [CTK PR 127](https://github.com/buffaloexchange/celeranttoolkit/pull/127) 
-	- Just need to wait for Randall to address the comment I left
-- [x] Design system migration
-- [x] Help Loren Find out what's up with the Computer Supplies budget
-- [x] Clean up 1:1 notes and make Obsidian template
-- [x] Cellphone Auth
-- [x] Microage Auth
-- [x] Open Source Donation
-	- [x] UltraVNC - 50
-	- [x] Coolify - 50
-	- [x] Auth.js - 25
-	- [x] react-hook-form maintainers - 30 (10x3)
-	- [x] GitHub upload list - 245
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Turn in auths for
-	- [x] Cellphone Auth
-	- [x] Microage Auth
-	- [x] Open Source Donation
-- [x] FInish budget prep
-- [x] Backstock Log work
+- [ ] 
 
   
 ---
