@@ -33,9 +33,9 @@
 - [x] Request additional Whse Office Seats
 - [x] Meet with Loren
 - [x] Meet with James about the CA12 thing
-- [ ] Backstock Log
+- [x] Backstock Log
 	- [x] Finish feedback items
-	- [ ] Deploy Prod version
+	- [x] Deploy Prod version
 
 ---
 ## Wednesday
@@ -47,6 +47,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Work on Google Recaptcha Migration
 - [ ] Work on BI Data updater agent thing
 
 
