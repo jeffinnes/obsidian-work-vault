@@ -19,7 +19,7 @@ Created By: Jeff Innes
 ## Follow-up Action Items (Check off when added to “ToDo list”)
 
 - [x] Let daniel know about how the transferred drive for termed users looks
-- [ ] Ask Randall to publish RBs report with the latest data
+- [x] Ask Randall to publish RBs report with the latest data
 
 ---
 # July 15, 2025
