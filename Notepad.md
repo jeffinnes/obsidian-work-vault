@@ -42,4 +42,6 @@ CA12 - James took the ticket but didn't send the email
 	- Reiterate that the email needs to go out and documentation needs to be made.
 - Write up a WMTD
 
-9:30 - 6 for Friday
+
+## 7/29/25 w/ Sabrina
+Whse Office
