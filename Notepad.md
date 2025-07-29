@@ -43,10 +43,4 @@ CA12 - James took the ticket but didn't send the email
 - Write up a WMTD
 
 
-## 7/29/25 w/ Sabrina
-Whse Office
-- Add two more seats
-- We might need to add more later
 
-Backstock log
-- 

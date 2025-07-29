@@ -28,7 +28,9 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Update and announce ticket count
+- [x] Update and announce ticket count
+- [x] Catchup Meeting with Sabrina
+- [x] Meet with Loren
 - [ ] Meet with James about the CA12 thing
 - [ ] Backstock Log
 
