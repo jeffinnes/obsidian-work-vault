@@ -49,4 +49,6 @@ Whse Office
 - We might need to add more later
 
 Backstock log
-- 
+
+Make sure RBs report is published
+
