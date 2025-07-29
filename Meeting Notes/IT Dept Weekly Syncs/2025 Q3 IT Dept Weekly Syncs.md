@@ -3,6 +3,23 @@ Created: 2025-07-01T12:29
 Type: Weekly Sync
 Created By: Jeff Innes
 ---
+# July 29, 2025
+
+## From Staff?
+
+- Not too much happening
+- Headcount is holding steady
+- TX02 is open (obviously)
+
+## Points of Interest
+
+- 
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ]
+
+---
 # July 15, 2025
 
 ## From Staff?
