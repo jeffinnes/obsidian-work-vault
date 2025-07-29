@@ -34,6 +34,8 @@
 - [x] Meet with Loren
 - [x] Meet with James about the CA12 thing
 - [ ] Backstock Log
+	- [x] Finish feedback items
+	- [ ] Deploy Prod version
 
 ---
 ## Wednesday
