@@ -13,11 +13,13 @@ Created By: Jeff Innes
 
 ## Points of Interest
 
-- 
+- For RBs report, Randall and I just need to get it published with the latest data
+- Looks like we are going to get a bunch of printers ordered to make sure they can meet our needs for scanning. Then we will stockpile like 15 of them.
 
 ## Follow-up Action Items (Check off when added to “ToDo list”)
 
-- [ ]
+- [x] Let daniel know about how the transferred drive for termed users looks
+- [ ] Ask Randall to publish RBs report with the latest data
 
 ---
 # July 15, 2025
