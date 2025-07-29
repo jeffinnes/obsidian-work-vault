@@ -29,6 +29,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Meet with James about the CA12 thing
 - [ ] Backstock Log
 
 ---
