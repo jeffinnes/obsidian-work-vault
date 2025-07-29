@@ -47,7 +47,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
-- [ ] Work on Google Recaptcha Migration
+- [ ] Work on Google ReCaptcha Migration
 - [ ] Work on BI Data updater agent thing
 
 
