@@ -45,6 +45,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Work on BI Data updater agent thing
 
 
 ---
