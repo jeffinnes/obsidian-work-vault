@@ -47,6 +47,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Update and announce ticket count
+- [ ] List of accomplishments
 - [ ] Assign 365 seats
 - [ ] Backstock Log
 	- [ ] Deploy shortcut
