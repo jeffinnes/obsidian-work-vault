@@ -48,8 +48,9 @@
 ### Daily Tasks
 - [x] Update and announce ticket count
 - [x] List of accomplishments
-- [ ] Assign 365 seats
-	- [ ] Oops I'm short two somehow
+- [x] Assign 365 seats
+	- [x] Oops I'm short two somehow
+	- [x] Ask for more
 - [ ] Work on Google ReCaptcha Migration
 - [ ] Work on BI Data updater agent
 
