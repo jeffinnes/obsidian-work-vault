@@ -41,8 +41,8 @@
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] IT Mgr Meeting
+- [x] Check Grafana
+- [x] IT Mgr Meeting
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
@@ -62,6 +62,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Assign the last two 365 seats
 - [ ] Send out Microsoft Login info to GA folks
 - [ ] Backstock Log
 	- [ ] Deploy shortcut
