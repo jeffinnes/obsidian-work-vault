@@ -61,7 +61,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
-- [ ] 
+- [ ] Send out Microsoft Login info to GA folks
 - [ ] Backstock Log
 	- [ ] Deploy shortcut
 
