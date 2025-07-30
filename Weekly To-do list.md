@@ -47,7 +47,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Update and announce ticket count
-- [ ] List of accomplishments
+- [x] List of accomplishments
 - [ ] Assign 365 seats
 - [ ] Backstock Log
 	- [ ] Deploy shortcut
@@ -73,6 +73,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Giftcard access for Monica Zavala
 
   
 ---
