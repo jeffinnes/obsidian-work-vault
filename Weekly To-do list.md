@@ -51,8 +51,8 @@
 - [x] Assign 365 seats
 	- [x] Oops I'm short two somehow
 	- [x] Ask for more
-- [ ] Work on Google ReCaptcha Migration
-- [ ] Work on BI Data updater agent
+- [x] Work on Google ReCaptcha Migration
+
 
 
 ---
@@ -67,6 +67,7 @@
 - [ ] Send out Microsoft Login info to GA folks
 - [ ] Backstock Log
 	- [ ] Deploy shortcut
+- [ ] Work on BI Data updater agent
 
 ---
 ## Friday
