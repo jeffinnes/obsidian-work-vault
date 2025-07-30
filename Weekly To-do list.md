@@ -49,8 +49,9 @@
 - [x] Update and announce ticket count
 - [x] List of accomplishments
 - [ ] Assign 365 seats
+	- [ ] Oops I'm short two somehow
 - [ ] Work on Google ReCaptcha Migration
-- [ ] Work on BI Data updater agent thing
+- [ ] Work on BI Data updater agent
 
 
 ---
