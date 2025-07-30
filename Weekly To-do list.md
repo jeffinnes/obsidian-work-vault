@@ -47,6 +47,9 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Assign 365 seats
+- [ ] Backstock Log
+	- [ ] Deploy shortcut
 - [ ] Work on Google ReCaptcha Migration
 - [ ] Work on BI Data updater agent thing
 
