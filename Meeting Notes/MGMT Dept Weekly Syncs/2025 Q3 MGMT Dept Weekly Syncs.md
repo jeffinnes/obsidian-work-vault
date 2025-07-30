@@ -20,7 +20,7 @@ Type: Weekly Sync
 - Replacement printers
 	- SB wants Brian not to worry about ink vs toner or manufacturer
 - Plan to do Mktng and IT monitor replacements for end of 2026
-- 
+- Sabrina is okay with having James, Brian, and 
 
 ## Follow-up Action Items (Check off after adding to “ToDo” list)
 
