@@ -46,7 +46,7 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Update and announce ticket count
+- [x] Update and announce ticket count
 - [ ] Assign 365 seats
 - [ ] Backstock Log
 	- [ ] Deploy shortcut
