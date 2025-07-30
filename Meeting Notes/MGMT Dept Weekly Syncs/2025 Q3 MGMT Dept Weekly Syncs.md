@@ -10,13 +10,21 @@ Type: Weekly Sync
 - Digital Signage
 	- They picked a space
 	- Maint will install electrical
-- Me - Watchlist
+- Watchlist
 	- This may be requested for other areas and locations
-- Consignment en
+- Consignment end of the month report
+	- Get done ASAP
+- Labor cost asap as well
+	- What else does James have on his plate
+- They want us to research new training tablets
+- Replacement printers
+	- SB wants Brian not to worry about ink vs toner or manufacturer
+- Plan to do Mktng and IT monitor replacements for end of 2026
+- 
 
 ## Follow-up Action Items (Check off after adding to “ToDo” list)
 
-- [ ] 
+- [ ] Document the plan to replace monitors somewhere
 
 ---
 
