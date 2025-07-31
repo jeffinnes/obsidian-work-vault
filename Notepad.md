@@ -51,3 +51,11 @@ Whse Office
 Backstock log
 
 Make sure RBs report is published
+
+
+### PDQ Stuff 7/31
+How many do we have right now
+We want 5 total
+How much to add the extras
+How much total per year
+
