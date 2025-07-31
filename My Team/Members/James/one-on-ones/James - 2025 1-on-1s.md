@@ -211,7 +211,6 @@ James is going to check out better auth for this app
 
 ### Your feedback for me (about me or the team in general):
 
-_(Frequency: I ask for this every time)_
 
 ## Goals
 
