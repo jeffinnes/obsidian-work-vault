@@ -225,10 +225,8 @@ What are your short and long-term goals? How can we work together to help you me
 
 Did the GitHub ones we talked about
 
-Aug Goal: 
 ## Any other issues or concerns
 
-_(Frequency: I always open the floor at the end so they can bring up anything they feel they need to. This is also the time I communicate any other general IT things that need to be mentioned.)_
 
 ---
 ---
