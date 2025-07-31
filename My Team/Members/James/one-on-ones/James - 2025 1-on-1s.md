@@ -210,6 +210,7 @@ James is going to check out better auth for this app
 
 
 ### Your feedback for me (about me or the team in general):
+Vending Machines would be good
 
 
 ## Goals
@@ -222,8 +223,9 @@ _(Frequency: Maybe twice a year)_
 
 What are your short and long-term goals? How can we work together to help you meet them?
 
-_(Frequency: Monthly)_
+Did the GitHub ones we talked about
 
+Aug Goal: 
 ## Any other issues or concerns
 
 _(Frequency: I always open the floor at the end so they can bring up anything they feel they need to. This is also the time I communicate any other general IT things that need to be mentioned.)_
