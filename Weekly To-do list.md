@@ -73,11 +73,10 @@
 - [x] Assign the last two 365 seats
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignement EOM report steps in handbooks
-- [ ] Review Microsoft login info for GA
+- [x] Review Microsoft login info for GA
 - [ ] Send out Microsoft Login info to GA folks
-- [ ] Backstock Log
-	- [ ] Meet with Sabrina about licensing costs
-	- [ ] Deploy shortcut
+- [x] Backstock Log
+	- [x] Deploy shortcut
 - [ ] Work on BI Data updater agent
 
 ---
@@ -89,6 +88,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Update and announce ticket count
+- [ ] Check for Backstock Log shortcut
 - [ ] Giftcard access for Monica Zavala
 
   
