@@ -196,13 +196,13 @@ _(Frequency: Maybe twice a year)_
 ## Professional Development
 
 What are your short and long-term goals? How can we work together to help you meet them?
-He was able to watch some business intelligence 
+He was able to watch some business intelligence.
 
-Goals: 
+Goals: GitHub
 
 ## Any other issues or concerns
 
-Finished
+Finish the color examples in the design system
 
 ---
 ---
