@@ -68,11 +68,12 @@
 - [x] Randall 1:1
 - [ ] James 1:1
 - [x] Audit task meeting
-	- [ ] Make sure Brian/Daniel/James get the disk space emails
+	- [x] Make sure Brian/Daniel/James get the disk space emails
 - [x] Sort out PDQ licensing costs
 - [x] Assign the last two 365 seats
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignement EOM report steps in handbooks
+- [ ] Review Microsoft login info for GA
 - [ ] Send out Microsoft Login info to GA folks
 - [ ] Backstock Log
 	- [ ] Meet with Sabrina about licensing costs
