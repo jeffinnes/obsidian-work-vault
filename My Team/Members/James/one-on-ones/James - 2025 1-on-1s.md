@@ -202,13 +202,12 @@ The point of this is to make sure we are actually getting value out of Pluralsig
 What has been working well? Is there anything getting in your way or any additional support you need?
 
 Labor cost is going to take longer that two weeks. We'll treat end of August as the hard deadline.
-
+James is going to check out better auth for this app
 
 ## Feedback
 
 ### From management to you:
 
-_(Frequency: Whenever we have something specific)_
 
 ### Your feedback for me (about me or the team in general):
 
