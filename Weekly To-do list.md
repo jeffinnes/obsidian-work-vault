@@ -67,7 +67,7 @@
 - [x] Meet with Loren again
 - [x] Randall 1:1
 - [ ] James 1:1
-- [ ] Audit task meeting
+- [x] Audit task meeting
 	- [ ] Make sure Brian/Daniel/James get the disk space emails
 - [x] Sort out PDQ licensing costs
 - [x] Assign the last two 365 seats
