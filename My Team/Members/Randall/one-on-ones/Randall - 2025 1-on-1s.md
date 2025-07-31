@@ -174,13 +174,13 @@ For July: GitHub & PowerBI
 
 What has been working well? Is there anything getting in your way or any additional support you need?
 
-_(Frequency: Every time)_
+
 
 ## Feedback
 
 ### From management to you:
 
-_(Frequency: Whenever we have something specific)_
+Nothing this time
 
 ### Your feedback for me (about me or the team in general):
 

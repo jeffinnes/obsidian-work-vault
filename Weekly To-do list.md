@@ -59,13 +59,21 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Update and announce ticket count
+- [x] Update and announce ticket count
+- [x] Meet with Loren
+- [x] Meet with Loren again
+- [ ] Randall 1:1
+- [ ] James 1:1
+- [ ] Audit task meeting
+- [ ] Sort out PDQ licensing costs
 - [ ] Assign the last two 365 seats
+- [ ] Document James' WMTD in working file
 - [ ] Send out Microsoft Login info to GA folks
 - [ ] Backstock Log
+	- [ ] Meet with Sabrina about licensing costs
 	- [ ] Deploy shortcut
 - [ ] Work on BI Data updater agent
 
