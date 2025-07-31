@@ -6,4 +6,4 @@ Last updated time: 2025-05-01T10:12
 Frequency: when generated
 Training Completed: true
 ---
-This is emailed, sort it to make sure no one is below 70%
+This is emailed, sort it to make sure no one is below 70% available

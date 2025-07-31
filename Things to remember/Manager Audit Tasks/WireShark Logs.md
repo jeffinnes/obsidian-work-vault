@@ -8,7 +8,6 @@ Training Completed: false
 ---
 Loren want’s me to hold off on this for now
 
-  
 
 Loren normally looks for Browser Alerts because they are annoying
 

@@ -7,9 +7,7 @@ Frequency: twice per month
 Training Completed: true
 ---
 Check CamCan to makes sure it hasn’t been more than 7 days since the last check
-
 Remind the advocate to check them
-
 Document misses in Working file
 
   

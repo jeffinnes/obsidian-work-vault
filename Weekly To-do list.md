@@ -68,6 +68,7 @@
 - [x] Randall 1:1
 - [ ] James 1:1
 - [ ] Audit task meeting
+	- [ ] Make sure Brian/Daniel/James get the disk space emails
 - [ ] Sort out PDQ licensing costs
 - [ ] Assign the last two 365 seats
 - [ ] Document James' WMTD in working file
