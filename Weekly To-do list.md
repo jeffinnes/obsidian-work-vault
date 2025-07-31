@@ -25,7 +25,7 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [x] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Update and announce ticket count
@@ -43,7 +43,7 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [x] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Update and announce ticket count
@@ -69,8 +69,8 @@
 - [ ] James 1:1
 - [ ] Audit task meeting
 	- [ ] Make sure Brian/Daniel/James get the disk space emails
-- [ ] Sort out PDQ licensing costs
-- [ ] Assign the last two 365 seats
+- [x] Sort out PDQ licensing costs
+- [x] Assign the last two 365 seats
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignement EOM report steps in handbooks
 - [ ] Send out Microsoft Login info to GA folks
