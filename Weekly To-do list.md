@@ -65,7 +65,7 @@
 - [x] Update and announce ticket count
 - [x] Meet with Loren
 - [x] Meet with Loren again
-- [ ] Randall 1:1
+- [x] Randall 1:1
 - [ ] James 1:1
 - [ ] Audit task meeting
 - [ ] Sort out PDQ licensing costs
