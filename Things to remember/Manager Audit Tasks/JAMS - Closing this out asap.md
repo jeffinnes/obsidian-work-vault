@@ -9,3 +9,6 @@ Training Completed: true
 Check History and Monitor for issues
 
 Get them assigned and addressed
+
+
+WE ARE GETTING RID OF JAMS

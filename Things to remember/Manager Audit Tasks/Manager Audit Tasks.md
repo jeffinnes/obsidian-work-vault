@@ -15,5 +15,5 @@ Create and collaborate on documents in one place.
 |[[Things to remember/Manager Audit Tasks/Review All Contact one after hours messages]]|Jeff Innes|May 1, 2025 8:56 AM|Jeff Innes|May 1, 2025 10:14 AM|Weekly|[x]|
 |[[Things to remember/Manager Audit Tasks/Review Standby Call Sheet]]|Jeff Innes|May 1, 2025 8:56 AM|Jeff Innes|May 1, 2025 10:14 AM|Weekly|[x]|
 |[[Things to remember/Manager Audit Tasks/Store Reports - IT Section]]|Jeff Innes|May 1, 2025 8:56 AM|Jeff Innes|May 1, 2025 10:15 AM|Weekly|[x]|
-|[[Things to remember/Manager Audit Tasks/JAMS]]|Jeff Innes|May 1, 2025 9:25 AM|Jeff Innes|May 1, 2025 9:53 AM|Weekly|[x]|
+|[[JAMS - Closing this out asap]]|Jeff Innes|May 1, 2025 9:25 AM|Jeff Innes|May 1, 2025 9:53 AM|Weekly|[x]|
 |[[Things to remember/Manager Audit Tasks/PDQ]]|Jeff Innes|May 1, 2025 9:42 AM|Jeff Innes|May 1, 2025 10:43 AM|Weekly|[ ]|
