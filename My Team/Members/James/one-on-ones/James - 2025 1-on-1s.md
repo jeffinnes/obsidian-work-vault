@@ -201,7 +201,8 @@ The point of this is to make sure we are actually getting value out of Pluralsig
 
 What has been working well? Is there anything getting in your way or any additional support you need?
 
-_(Frequency: Every time)_
+Labor cost is going to take longer that two weeks. We'll treat end of August as the hard deadline.
+
 
 ## Feedback
 
