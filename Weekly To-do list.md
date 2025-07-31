@@ -66,15 +66,15 @@
 - [x] Meet with Loren
 - [x] Meet with Loren again
 - [x] Randall 1:1
-- [ ] James 1:1
+- [x] James 1:1
 - [x] Audit task meeting
 	- [x] Make sure Brian/Daniel/James get the disk space emails
 - [x] Sort out PDQ licensing costs
 - [x] Assign the last two 365 seats
 - [ ] Document James' WMTD in working file
-- [ ] Review Consignement EOM report steps in handbooks
+- [ ] Review Consignment EOM report steps in handbooks
 - [x] Review Microsoft login info for GA
-- [ ] Send out Microsoft Login info to GA folks
+- [x] Send out Microsoft Login info to GA folks
 - [x] Backstock Log
 	- [x] Deploy shortcut
 - [ ] Work on BI Data updater agent
@@ -89,7 +89,10 @@
 ### Daily Tasks
 - [ ] Update and announce ticket count
 - [ ] Check for Backstock Log shortcut
+- [ ] Document James' WMTD in working file
+- [ ] Review Consignment EOM report steps in handbooks
 - [ ] Giftcard access for Monica Zavala
+- [ ] BI with RB @ 3:00
 
   
 ---
