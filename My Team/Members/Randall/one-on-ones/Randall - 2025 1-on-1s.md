@@ -174,7 +174,8 @@ For July: GitHub & PowerBI
 
 What has been working well? Is there anything getting in your way or any additional support you need?
 
-
+Monica's report is close to good. Might need to ship it.
+Consignment export - I need to review the handbooks.
 
 ## Feedback
 
@@ -184,7 +185,7 @@ Nothing this time
 
 ### Your feedback for me (about me or the team in general):
 
-_(Frequency: I ask for this every time)_
+Need to get some priority guidance
 
 ## Goals
 
@@ -195,12 +196,13 @@ _(Frequency: Maybe twice a year)_
 ## Professional Development
 
 What are your short and long-term goals? How can we work together to help you meet them?
+He was able to watch some business intelligence 
 
-_(Frequency: Monthly)_
+Goals: 
 
 ## Any other issues or concerns
 
-_(Frequency: I always open the floor at the end so they can bring up anything they feel they need to. This is also the time I communicate any other general IT things that need to be mentioned.)_
+Finished
 
 ---
 ---

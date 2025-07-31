@@ -71,6 +71,7 @@
 - [ ] Sort out PDQ licensing costs
 - [ ] Assign the last two 365 seats
 - [ ] Document James' WMTD in working file
+- [ ] Review Consignement EOM report steps in handbooks
 - [ ] Send out Microsoft Login info to GA folks
 - [ ] Backstock Log
 	- [ ] Meet with Sabrina about licensing costs
