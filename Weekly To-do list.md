@@ -88,10 +88,11 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Check for Backstock Log shortcut
-- [ ] Update and announce ticket count
+- [x] Update and announce ticket count
 - [ ] Inventory Transfer report
-- [ ] Marketing BI Data
+- [x] Marketing BI Data
 - [ ] Video training counts
+- [x] Cancel OpenAI subscription
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignment EOM report steps in handbooks
 - [ ] Giftcard access for Monica Zavala
