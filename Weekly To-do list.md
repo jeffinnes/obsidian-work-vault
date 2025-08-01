@@ -95,14 +95,15 @@
 - [x] Cancel OpenAI subscription
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignment EOM report steps in handbooks
-- [ ] Giftcard access for Monica Zavala
-- [ ] BI with RB @ 3:00
+- [x] Giftcard access for Monica Zavala
+- [x] BI with RB @ 3:00
+	- [x] Ask Randall to Add area managers to the buy report
 
   
 ---
 ## Saturday / Sunday
 
-- [ ] Add area managers to the buy report
+- [ ] 
 
   
 ---
