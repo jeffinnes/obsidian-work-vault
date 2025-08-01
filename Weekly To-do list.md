@@ -89,7 +89,7 @@
 ### Daily Tasks
 - [x] Check for Backstock Log shortcut
 - [x] Update and announce ticket count
-- [ ] Inventory Transfer report
+- [x] Inventory Transfer report
 - [x] Marketing BI Data
 - [ ] Video training counts
 - [x] Cancel OpenAI subscription
