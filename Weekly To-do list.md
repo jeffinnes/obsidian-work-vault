@@ -91,7 +91,7 @@
 - [x] Update and announce ticket count
 - [x] Inventory Transfer report
 - [x] Marketing BI Data
-- [ ] Video training counts
+- [x] Video training counts
 - [x] Cancel OpenAI subscription
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignment EOM report steps in handbooks
