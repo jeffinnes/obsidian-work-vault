@@ -102,7 +102,7 @@
 ---
 ## Saturday / Sunday
 
-- [ ] 
+- [ ] Add area managers to 
 
   
 ---
