@@ -87,8 +87,11 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [x] Check for Backstock Log shortcut
 - [ ] Update and announce ticket count
-- [ ] Check for Backstock Log shortcut
+- [ ] Inventory Transfer report
+- [ ] Marketing BI Data
+- [ ] Video training counts
 - [ ] Document James' WMTD in working file
 - [ ] Review Consignment EOM report steps in handbooks
 - [ ] Giftcard access for Monica Zavala
