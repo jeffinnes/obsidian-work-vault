@@ -93,12 +93,12 @@
 - [x] Marketing BI Data
 - [x] Video training counts
 - [x] Cancel OpenAI subscription
-- [ ] Document James' WMTD in working file
+- [x] Document James' WMTD in working file
 - [x] Review Consignment EOM report steps in handbooks
 - [x] Giftcard access for Monica Zavala
 - [x] BI with RB @ 3:00
 	- [x] Ask Randall to Add area managers to the buy report
-- [ ] Update Project tracking
+- [x] Update Project tracking
 - [ ] Update July Map
 - [ ] Start Aug Map
 
