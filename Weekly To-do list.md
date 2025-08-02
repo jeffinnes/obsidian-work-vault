@@ -99,6 +99,7 @@
 - [x] BI with RB @ 3:00
 	- [x] Ask Randall to Add area managers to the buy report
 - [x] Update Project tracking
+- [x] File Payment Auths
 - [ ] Update July Map
 - [ ] Start Aug Map
 
