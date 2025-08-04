@@ -2,56 +2,37 @@
 ## Monday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Ticket Report
-- [x] Connecteam startdate script
+- [ ] Check Grafana
+- [ ] IT Ticket Report
+- [ ] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Return to office stuff
-- [x] Email Catch up
-- [x] Meeting 1 re: Office deployment
-- [x] Meeting 2 - Mgr scheduling meeting and also James/CA12 internet
-- [x] Meeting 3 - More James/CA12 internet finalized my Fri sched
-- [x] Order the rest of the GA Office 365 licenses
-- [x] Clone  buffaloexchange.com to something like audit.buffaloexchange.com
-- [x] Fontawesome Auth
-- [x] Add Backstock notes as issues to Github repo
-- [x] Backstock Log
+- [ ] Finish Aug Maps
+- [ ] Work on BI Data updater agent
+- [ ] Help Loren
 
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Check Grafana
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Update and announce ticket count
-- [x] Catchup Meeting with Sabrina
-- [x] Request additional Whse Office Seats
-- [x] Meet with Loren
-- [x] Meet with James about the CA12 thing
-- [x] Backstock Log
-	- [x] Finish feedback items
-	- [x] Deploy Prod version
+- [ ] Plan Pizza Party for 35k tickets on Aug. 6
 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Mgr Meeting
-- [x] Store Reports if Loren isn’t in
+- [ ] Check Grafana
+- [ ] IT Mgr Meeting
+- [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Update and announce ticket count
-- [x] List of accomplishments
-- [x] Assign 365 seats
-	- [x] Oops I'm short two somehow
-	- [x] Ask for more
-- [x] Work on Google ReCaptcha Migration
+- [ ] 
 
 
 
@@ -59,49 +40,20 @@
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Update and announce ticket count
-- [x] Meet with Loren
-- [x] Meet with Loren again
-- [x] Randall 1:1
-- [x] James 1:1
-- [x] Audit task meeting
-	- [x] Make sure Brian/Daniel/James get the disk space emails
-- [x] Sort out PDQ licensing costs
-- [x] Assign the last two 365 seats
-- [ ] Document James' WMTD in working file
-- [ ] Review Consignment EOM report steps in handbooks
-- [x] Review Microsoft login info for GA
-- [x] Send out Microsoft Login info to GA folks
-- [x] Backstock Log
-	- [x] Deploy shortcut
-- [ ] Work on BI Data updater agent
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Check for Backstock Log shortcut
-- [x] Update and announce ticket count
-- [x] Inventory Transfer report
-- [x] Marketing BI Data
-- [x] Video training counts
-- [x] Cancel OpenAI subscription
-- [x] Document James' WMTD in working file
-- [x] Review Consignment EOM report steps in handbooks
-- [x] Giftcard access for Monica Zavala
-- [x] BI with RB @ 3:00
-	- [x] Ask Randall to Add area managers to the buy report
-- [x] Update Project tracking
-- [x] File Payment Auths
-- [x] Update July Map
-- [x] Start Aug Map
+- [ ] 
 
   
 ---
@@ -114,10 +66,9 @@
 ---
 ## Next week’s planned and rollover items
 
-- [ ] Finish Aug Maps
-- [ ] Work on BI Data updater agent
+- [ ] 
+- [ ] 
 - [ ] Pins for some kind of little tangible rewards
-- [ ] Plan Pizza Party for 35k tickets on Aug. 6
 - [ ] Set Sabrina up with PowerBI
     - [ ] Share the templates with her
     - [ ] And color scheme
