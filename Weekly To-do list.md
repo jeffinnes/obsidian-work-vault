@@ -2,7 +2,7 @@
 ## Monday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] IT Ticket Report
 - [ ] Connecteam startdate script
 - [ ] Professional Development Activity
@@ -10,6 +10,7 @@
 - [ ] Finish Aug Maps
 - [ ] Work on BI Data updater agent
 - [ ] Help Loren
+- [ ] Oversee GA Office Migration aftermath
 
   
 ---
