@@ -4,10 +4,13 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [ ] IT Ticket Report
-- [ ] Connecteam startdate script
+- [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Finish Aug Maps
+- [x] Claude Reimbursement
+- [x] Fix Entra Sync errors
+- [ ] Report ticket count
 - [ ] Work on BI Data updater agent
 - [ ] Help Loren
 - [ ] Oversee GA Office Migration aftermath
