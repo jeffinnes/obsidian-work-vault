@@ -13,6 +13,8 @@
 - [x] Report ticket count
 - [ ] Work on BI Data updater agent
 - [ ] Oversee GA Office Migration aftermath
+	- [ ] Saving to OneDrive
+	- [ ] .dotm
 
   
 ---
