@@ -12,9 +12,11 @@
 - [x] Fix Entra Sync errors
 - [x] Report ticket count
 - [ ] Work on BI Data updater agent
-- [ ] Oversee GA Office Migration aftermath
-	- [ ] Saving to OneDrive
+- [x] Oversee GA Office Migration aftermath
+	- [x] Saving to OneDrive
 	- [ ] .dotm
+- [ ] Log Backstock log feature requests
+- [x] Get totally side tracked trying to figure out the best way to manage github issues.
 
   
 ---
@@ -27,6 +29,11 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Plan Pizza Party for 35k tickets on Aug. 6
+- [ ] Oversee GA Office Migration aftermath
+	- [x] Saving to OneDrive
+	- [ ] .dotm
+- [ ] Work on BI Data updater agent
+- [ ] Finish Aug Maps
 
 ---
 ## Wednesday
