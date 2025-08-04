@@ -100,8 +100,8 @@
 	- [x] Ask Randall to Add area managers to the buy report
 - [x] Update Project tracking
 - [x] File Payment Auths
-- [ ] Update July Map
-- [ ] Start Aug Map
+- [x] Update July Map
+- [x] Start Aug Map
 
   
 ---
@@ -114,6 +114,8 @@
 ---
 ## Next week’s planned and rollover items
 
+- [ ] Finish Aug Maps
+- [ ] Work on BI Data updater agent
 - [ ] Pins for some kind of little tangible rewards
 - [ ] Plan Pizza Party for 35k tickets on Aug. 6
 - [ ] Set Sabrina up with PowerBI
