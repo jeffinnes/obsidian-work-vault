@@ -15,7 +15,7 @@
 - [x] Oversee GA Office Migration aftermath
 	- [x] Saving to OneDrive
 	- [ ] .dotm
-- [ ] Log Backstock log feature requests
+- [x] Log Backstock log feature requests
 - [x] Get totally side tracked trying to figure out the best way to manage github issues.
 
   
@@ -78,8 +78,7 @@
 ---
 ## Next week’s planned and rollover items
 
-- [ ] 
-- [ ] 
+- [ ] Let Melanie know about her Backstock Log requests
 - [ ] Pins for some kind of little tangible rewards
 - [ ] Set Sabrina up with PowerBI
     - [ ] Share the templates with her
