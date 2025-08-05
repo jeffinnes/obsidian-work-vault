@@ -15,6 +15,7 @@
 - [x] Oversee GA Office Migration aftermath
 	- [x] Saving to OneDrive
 	- [ ] .dotm
+- [x] Request SMC for Alies
 - [x] Log Backstock log feature requests
 - [x] Get totally side tracked trying to figure out the best way to manage github issues.
 
