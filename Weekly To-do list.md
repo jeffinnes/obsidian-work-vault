@@ -29,6 +29,7 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] Submit Phone reimbursement
 - [ ] Plan Pizza Party for 35k tickets on Aug. 6
 - [ ] Oversee GA Office Migration aftermath
 	- [x] Saving to OneDrive
