@@ -39,7 +39,8 @@
 	- [x] Add AI tool training? - Didn't add specific materials though
 - [ ] Set up Alies' SMC
 - [ ] Work on BI Data updater agent
-- [ ] Finish Aug Maps
+- [x] Finish Aug Maps
+- [ ] Brainstorm projects for Max
 
 ---
 ## Wednesday
