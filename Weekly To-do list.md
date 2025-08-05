@@ -31,9 +31,9 @@
 ### Daily Tasks
 - [x] Submit Phone reimbursement
 - [x] Plan Pizza Party for 35k tickets on Aug. 6
-- [ ] Oversee GA Office Migration aftermath
+- [x] Oversee GA Office Migration aftermath
 	- [x] Saving to OneDrive
-	- [ ] .dotm
+	- [x] .dotm
 - [ ] Look into Snipe-IT
 - [x] Diagram WebDev Roadmap
 	- [x] Add AI tool training? - Didn't add specific materials though
