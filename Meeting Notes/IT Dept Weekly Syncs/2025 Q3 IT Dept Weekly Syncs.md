@@ -70,3 +70,24 @@ Created By: Jeff Innes
 - [ ]
 
 ---
+# August 05, 2025
+
+## From Staff?
+
+- R&M is busy
+- TN02 location has been IDed
+	- Be ready for trip
+- Maint going to do some work at NY02
+	- We'll need to go do the wiring
+	- No timeline on this
+- 
+
+## Points of Interest
+
+- 
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ] Find out if Max learns better from reading or 
+
+---
