@@ -35,6 +35,8 @@
 	- [x] Saving to OneDrive
 	- [ ] .dotm
 - [ ] Look into Snipe-IT
+- [ ] Diagram WebDev Roadmap
+	- [ ] Add AI tool training?
 - [ ] Set up Alies' SMC
 - [ ] Work on BI Data updater agent
 - [ ] Finish Aug Maps
