@@ -37,8 +37,7 @@
 - [ ] Look into Snipe-IT
 - [x] Diagram WebDev Roadmap
 	- [x] Add AI tool training? - Didn't add specific materials though
-- [ ] Set up Alies' SMC
-- [ ] Work on BI Data updater agent
+- [x] Set up Alies' SMC
 - [x] Finish Aug Maps
 - [ ] Brainstorm projects for Max
 
@@ -51,7 +50,9 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Hopefully finish getting Alies set up with SMC
+- [ ] Work on BI Data updater agent
+- [ ] Snipe-it
 
 
 
