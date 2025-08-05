@@ -34,6 +34,7 @@
 - [ ] Oversee GA Office Migration aftermath
 	- [x] Saving to OneDrive
 	- [ ] .dotm
+- [ ] Look into Snipe-IT
 - [ ] Work on BI Data updater agent
 - [ ] Finish Aug Maps
 
