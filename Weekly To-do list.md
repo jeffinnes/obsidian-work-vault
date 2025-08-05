@@ -35,6 +35,7 @@
 	- [x] Saving to OneDrive
 	- [ ] .dotm
 - [ ] Look into Snipe-IT
+- [ ] Set up Alies' SMC
 - [ ] Work on BI Data updater agent
 - [ ] Finish Aug Maps
 
