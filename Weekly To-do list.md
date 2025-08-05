@@ -26,7 +26,7 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [x] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Submit Phone reimbursement
