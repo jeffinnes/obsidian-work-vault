@@ -25,7 +25,7 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] Update tickets at 11a
+- [x] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
