@@ -84,10 +84,12 @@ Created By: Jeff Innes
 
 ## Points of Interest
 
+- Loren has asked Max to look into getting JS book
+- Alies is to run prices on a new iPad because the personal one she brought in is too out of date to connect to our WiFi
 - 
 
 ## Follow-up Action Items (Check off when added to “ToDo list”)
 
-- [ ] Find out if Max learns better from reading or 
+- [ ] Find out if Max learns better from reading or videos
 
 ---
