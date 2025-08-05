@@ -34,12 +34,13 @@
 - [x] Oversee GA Office Migration aftermath
 	- [x] Saving to OneDrive
 	- [x] .dotm
-- [ ] Look into Snipe-IT
+- [x] Look into Snipe-IT
 - [x] Diagram WebDev Roadmap
 	- [x] Add AI tool training? - Didn't add specific materials though
 - [x] Set up Alies' SMC
 - [x] Finish Aug Maps
 - [ ] Brainstorm projects for Max
+	- [ ] Started using Claude to work on some ways around this chicken and the egg situation 
 
 ---
 ## Wednesday
@@ -52,7 +53,7 @@
 ### Daily Tasks
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Work on BI Data updater agent
-- [ ] Snipe-it
+- [ ] Snipe-IT setup?
 
 
 
