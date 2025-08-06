@@ -46,12 +46,12 @@
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] AI Bubble education
+- [x] AI Bubble education
 - [x] Help Judy with Chrome Profiles
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Work on BI Data updater agent
