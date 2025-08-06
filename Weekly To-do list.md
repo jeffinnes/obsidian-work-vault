@@ -55,7 +55,8 @@
 - [x] Help Judy with Chrome Profiles
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Work on BI Data updater agent
-- [ ] Snipe-IT setup? Please lets just spend money
+- [x] Snipe-IT setup? Please lets just spend money
+	- [x] Nah hold off for now
 - [ ] Projects for Max!
 
 
