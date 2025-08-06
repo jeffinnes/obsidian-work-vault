@@ -51,6 +51,7 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] AI Bubble education
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Work on BI Data updater agent
 - [ ] Snipe-IT setup? Please lets just spend money
