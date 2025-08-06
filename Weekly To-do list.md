@@ -52,6 +52,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] AI Bubble education
+- [ ] Help Judy with Chrome Profiles
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Work on BI Data updater agent
 - [ ] Snipe-IT setup? Please lets just spend money
