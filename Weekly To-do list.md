@@ -54,6 +54,7 @@
 - [x] AI Bubble education
 - [x] Help Judy with Chrome Profiles
 - [ ] Hopefully finish getting Alies set up with SMC
+	- Nope, still didn't work. Let UKG know
 - [ ] Work on BI Data updater agent
 - [x] Snipe-IT setup? Please lets just spend money
 	- [x] Nah hold off for now
@@ -68,7 +69,7 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Hopefully finish getting Alies set up with SMC
 
 ---
 ## Friday
