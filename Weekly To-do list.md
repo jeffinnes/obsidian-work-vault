@@ -47,7 +47,7 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] IT Mgr Meeting
+- [x] IT Mgr Meeting
 - [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
