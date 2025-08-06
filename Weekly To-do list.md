@@ -55,7 +55,8 @@
 - [x] Help Judy with Chrome Profiles
 - [ ] Hopefully finish getting Alies set up with SMC
 	- Nope, still didn't work. Let UKG know
-- [ ] Work on BI Data updater agent
+- [x] Work on BI Data updater agent
+	- We are gonna wait for the new 
 - [x] Snipe-IT setup? Please lets just spend money
 	- [x] Nah hold off for now
 - [ ] Projects for Max!
