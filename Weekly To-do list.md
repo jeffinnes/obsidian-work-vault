@@ -73,12 +73,12 @@
 - BuffaloExchange.com maintenance
     - [x] 8am Send starting email
     - [x] Backup Staging
-    - [ ] Start Staging Sync
-    - [ ] Set JOT redirect in prod
-    - [ ] Test on staging
-    - [ ] back up prod
-    - [ ] update prod
-    - [ ] test
+    - [x] Start Staging Sync
+    - [x] Set JOT redirect in prod
+    - [x] Test on staging
+    - [x] back up prod
+    - [x] update prod
+    - [x] test
     - [ ] send all clear
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Projects for Max!
