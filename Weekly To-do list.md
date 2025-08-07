@@ -67,7 +67,7 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
 - BuffaloExchange.com maintenance
@@ -79,7 +79,8 @@
     - [x] back up prod
     - [x] update prod
     - [x] test
-    - [ ] send all clear
+    - [x] send all clear
+- [ ] Meet with Waitwhile about renewal
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Projects for Max!
 
