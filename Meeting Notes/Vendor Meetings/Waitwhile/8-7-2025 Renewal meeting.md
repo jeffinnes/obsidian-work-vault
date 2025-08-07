@@ -18,4 +18,4 @@ There is a new report builder thing
 ## Next Steps
 - [ ] Figure out how many visits
 - [ ] Check out status page link
-- [ ] Check out on the app
+- [ ] Check out the app for managing waitlists
