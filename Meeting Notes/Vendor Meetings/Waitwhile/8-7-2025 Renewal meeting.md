@@ -16,6 +16,6 @@ It would be helpful if you had some information on the following: 
 
 There is a new report builder thing
 ## Next Steps
-- [ ] Figure out how many visits
+- [x] Figure out how many visits
 - [ ] Check out status page link
 - [ ] Check out the app for managing waitlists

@@ -83,9 +83,10 @@
 - [x] Remind all department folks that we should not be using company computers or time to look at job boards or pay, even if it's a joke.
 	- [ ] Document that this was discussed in everyone's working file
 	- [ ] Don't for get Daniel
-- [ ] Meet with Waitwhile about renewal
+- [x] Meet with Waitwhile about renewal
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Projects for Max!
+- [ ] Okay set up Snipe-IT
 
 ---
 ## Friday
