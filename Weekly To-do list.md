@@ -70,6 +70,16 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
+- BuffaloExchange.com maintenance
+    - [x] 8am Send starting email
+    - [x] Backup Staging
+    - [ ] Start Staging Sync
+    - [ ] Set JOT redirect in prod
+    - [ ] Test on staging
+    - [ ] back up prod
+    - [ ] update prod
+    - [ ] test
+    - [ ] send all clear
 - [ ] Hopefully finish getting Alies set up with SMC
 - [ ] Projects for Max!
 
@@ -118,6 +128,7 @@ _These are things that aren’t really tasks, but I want to keep a reminder abou
 
 - BuffaloExchange.com maintenance
     - [ ] 8am Send starting email
+    - [ ] Backup Staging
     - [ ] Start Staging Sync
     - [ ] Set JOT redirect in prod
     - [ ] Test on staging
