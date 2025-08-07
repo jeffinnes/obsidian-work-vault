@@ -49,7 +49,7 @@
 - [x] Check Grafana
 - [x] IT Mgr Meeting
 - [x] Store Reports if Loren isn’t in
-- [ ] Professional Development Activity
+- [x] Professional Development Activity
 ### Daily Tasks
 - [x] AI Bubble education
 - [x] Help Judy with Chrome Profiles
@@ -59,7 +59,7 @@
 	- We are gonna wait for the new 
 - [x] Snipe-IT setup? Please lets just spend money
 	- [x] Nah hold off for now
-- [ ] Projects for Max!
+- [x] Follow up on MicroAge/Synnex email
 
 
 
@@ -71,6 +71,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Hopefully finish getting Alies set up with SMC
+- [ ] Projects for Max!
 
 ---
 ## Friday
