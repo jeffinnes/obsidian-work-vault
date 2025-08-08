@@ -84,7 +84,7 @@
 	- [ ] Document that this was discussed in everyone's working file
 	- [ ] Don't for get Daniel
 - [x] Meet with Waitwhile about renewal
-- [ ] Hopefully finish getting Alies set up with SMC
+- [x] Hopefully finish getting Alies set up with SMC
 - [ ] Projects for Max!
 - [ ] Okay set up Snipe-IT
 
