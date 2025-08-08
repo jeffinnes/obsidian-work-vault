@@ -82,21 +82,26 @@
     - [x] send all clear
 - [x] Remind all department folks that we should not be using company computers or time to look at job boards or pay, even if it's a joke.
 	- [ ] Document that this was discussed in everyone's working file
-	- [ ] Don't for get Daniel
+	- [ ] Don't forget Daniel
 - [x] Meet with Waitwhile about renewal
 - [x] Hopefully finish getting Alies set up with SMC
-- [ ] Projects for Max!
-- [ ] Okay set up Snipe-IT
+- [x] Planning Roadmap for Max!
+- [x] Okay set up Snipe-IT
+	- [x] Tomorrow
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [x] Twilio Auths
+- [x] Document that this was discussed in everyone's working file
+- [ ] Set up snipe-it
+- [x] Clean up NGINX enabled sites on tuc-nginx
+- [ ] Where is marketing.tucson.local hosted?
 
   
 ---
@@ -109,7 +114,9 @@
 ---
 ## Next week’s planned and rollover items
 
-- [ ] Let Melanie know about her Backstock Log requests
+- [ ] Get Twilio Auths signed
+- [ ] Computer use discussion with Daniel
+- [x] Let Melanie know about her Backstock Log requests
 - [ ] Pins for some kind of little tangible rewards
 - [ ] Set Sabrina up with PowerBI
     - [ ] Share the templates with her
