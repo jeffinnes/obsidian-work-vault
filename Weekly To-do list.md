@@ -99,9 +99,8 @@
 ### Daily Tasks
 - [x] Twilio Auths
 - [x] Document that this was discussed in everyone's working file
-- [ ] Set up snipe-it
+- [x] Set up snipe-it
 - [x] Clean up NGINX enabled sites on tuc-nginx
-- [ ] Where is marketing.tucson.local hosted?
 
   
 ---
@@ -114,6 +113,8 @@
 ---
 ## Next week’s planned and rollover items
 
+- [ ] Finish getting Snipe-IT setup
+- [ ] Where is marketing.tucson.local hosted?
 - [ ] Get Twilio Auths signed
 - [ ] Computer use discussion with Daniel
 - [x] Let Melanie know about her Backstock Log requests
