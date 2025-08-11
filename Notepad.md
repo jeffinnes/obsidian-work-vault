@@ -34,10 +34,9 @@ Loren & Max
 - Phishing training was allegedly allowed to be made mandatory.
 	- We need a way to track completion of the email and web ones
 		- Loren would like it by 12/1
-- Revive the messaging 
+- Revive the messaging alert
 	- Anyone in IT needs to be able to send it
+	- Loren want's us to be able to hit individual stores
 - A tool to shut down all the stores in an area
 	- Also for department
-
-For Randall:
-- EoD How many more jobs need to go? How much time? Can others help?
+	- Also just individual stores

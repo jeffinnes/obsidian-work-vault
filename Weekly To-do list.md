@@ -3,7 +3,7 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] IT Ticket Report
+- [x] IT Ticket Report
 - [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
@@ -12,10 +12,11 @@
 	- [x] Respond to RB
 	- [x] Respond to SB
 	- [ ] ???
+- [ ] Waitwhile Renewal
 - [ ] Finish getting Snipe-IT setup
-- [ ] Where is marketing.tucson.local hosted?
-- [ ] Get Twilio Auths signed
-- [ ] Computer use discussion with Daniel
+- [x] Get Twilio Auths signed
+- [x] Computer use discussion with Daniel
+	- [x] Document
 
   
 ---
