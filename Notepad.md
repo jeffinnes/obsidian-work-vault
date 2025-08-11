@@ -1,5 +1,3 @@
-
-
 ## Buffalo Website update flow
 
 1. Jeff syncs staging from prod
@@ -12,7 +10,6 @@
 5. Commune applies patches in production
 6. Commune performs tests again in production
 
-  
 
 ## Per LiquidWeb To see number of active connections
 
@@ -21,7 +18,6 @@ In that case you can do it by accessing the backend of the server(Command line i
 To check the status of teh IP : csf -g ipaddress  
 To unblock IP : csf -dr ipaddress  
 To whitelist IP : csf -a ipaddress  
-
 
 
 ## Late this year
@@ -34,7 +30,6 @@ Monica improvement
 - Could have an app that they enter the details and sends an email and writes to Celerant or makes an import file
 
 
-
 Loren & Max
 - Phishing training was allegedly allowed to be made mandatory.
 	- We need a way to track completion of the email and web ones
@@ -43,4 +38,6 @@ Loren & Max
 	- Anyone in IT needs to be able to send it
 - A tool to shut down all the stores in an area
 	- Also for department
-- 
+
+For Randall:
+- EoD How many more jobs need to go? How much time? Can others help?
