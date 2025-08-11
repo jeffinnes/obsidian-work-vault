@@ -7,13 +7,11 @@
 - [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Waitwhile limit follow ups
+- [x] Waitwhile limit follow ups
 	- [x] Check limit
 	- [x] Respond to RB
 	- [x] Respond to SB
-	- [ ] ???
-- [ ] Waitwhile Renewal
-- [ ] Finish getting Snipe-IT setup
+- [x] Finish getting Snipe-IT setup
 - [x] Get Twilio Auths signed
 - [x] Computer use discussion with Daniel
 	- [x] Document
@@ -28,7 +26,11 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Snipe-IT tasks
+	- [ ] Get email working
+- [ ] Waitwhile Visit alert via api?
+- [ ] Help James in anyway I can
+- [ ] Work on issue prioritization
 
 ---
 ## Wednesday
