@@ -3,63 +3,42 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [x] IT Ticket Report
+- [ ] IT Ticket Report
 - [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Finish Aug Maps
-- [x] Claude Reimbursement
-- [x] Fix Entra Sync errors
-- [x] Report ticket count
-- [ ] Work on BI Data updater agent
-- [x] Oversee GA Office Migration aftermath
-	- [x] Saving to OneDrive
-	- [ ] .dotm
-- [x] Request SMC for Alies
-- [x] Log Backstock log feature requests
-- [x] Get totally side tracked trying to figure out the best way to manage github issues.
+- [ ] Waitwhile limit follow ups
+	- [x] Check limit
+	- [x] Respond to RB
+	- [x] Respond to SB
+	- [ ] ???
+- [ ] Finish getting Snipe-IT setup
+- [ ] Where is marketing.tucson.local hosted?
+- [ ] Get Twilio Auths signed
+- [ ] Computer use discussion with Daniel
 
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Check Grafana
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Submit Phone reimbursement
-- [x] Plan Pizza Party for 35k tickets on Aug. 6
-- [x] Oversee GA Office Migration aftermath
-	- [x] Saving to OneDrive
-	- [x] .dotm
-- [x] Look into Snipe-IT
-- [x] Diagram WebDev Roadmap
-	- [x] Add AI tool training? - Didn't add specific materials though
-- [x] Set up Alies' SMC
-- [x] Finish Aug Maps
-- [x] Brainstorm projects for Max
-	- [x] Started using Claude to work on some ways around this chicken and the egg situation 
+- [ ] 
 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Mgr Meeting
-- [x] Store Reports if Loren isn’t in
-- [x] Professional Development Activity
+- [ ] Check Grafana
+- [ ] IT Mgr Meeting
+- [ ] Store Reports if Loren isn’t in
+- [ ] Professional Development Activity
 ### Daily Tasks
-- [x] AI Bubble education
-- [x] Help Judy with Chrome Profiles
-- [ ] Hopefully finish getting Alies set up with SMC
-	- Nope, still didn't work. Let UKG know
-- [x] Work on BI Data updater agent
-	- We are gonna wait for the new 
-- [x] Snipe-IT setup? Please lets just spend money
-	- [x] Nah hold off for now
-- [x] Follow up on MicroAge/Synnex email
+- [ ] 
 
 
 
@@ -67,40 +46,20 @@
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- BuffaloExchange.com maintenance
-    - [x] 8am Send starting email
-    - [x] Backup Staging
-    - [x] Start Staging Sync
-    - [x] Set JOT redirect in prod
-    - [x] Test on staging
-    - [x] back up prod
-    - [x] update prod
-    - [x] test
-    - [x] send all clear
-- [x] Remind all department folks that we should not be using company computers or time to look at job boards or pay, even if it's a joke.
-	- [ ] Document that this was discussed in everyone's working file
-	- [ ] Don't forget Daniel
-- [x] Meet with Waitwhile about renewal
-- [x] Hopefully finish getting Alies set up with SMC
-- [x] Planning Roadmap for Max!
-- [x] Okay set up Snipe-IT
-	- [x] Tomorrow
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Twilio Auths
-- [x] Document that this was discussed in everyone's working file
-- [x] Set up snipe-it
-- [x] Clean up NGINX enabled sites on tuc-nginx
+- [ ] 
 
   
 ---
@@ -113,11 +72,6 @@
 ---
 ## Next week’s planned and rollover items
 
-- [ ] Finish getting Snipe-IT setup
-- [ ] Where is marketing.tucson.local hosted?
-- [ ] Get Twilio Auths signed
-- [ ] Computer use discussion with Daniel
-- [x] Let Melanie know about her Backstock Log requests
 - [ ] Pins for some kind of little tangible rewards
 - [ ] Set Sabrina up with PowerBI
     - [ ] Share the templates with her
