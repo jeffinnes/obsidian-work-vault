@@ -22,14 +22,16 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] Update tickets at 11a
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Snipe-IT tasks
-	- [ ] Get email working
-- [ ] Waitwhile Visit alert via api?
+- [x] Snipe-IT tasks
+	- [x] Get email working
+- [x] Waitwhile Visit alert via api?
+	- They will get back to me
 - [ ] Work on issue prioritization
+- [x] Review Max's script
 
 ---
 ## Wednesday
