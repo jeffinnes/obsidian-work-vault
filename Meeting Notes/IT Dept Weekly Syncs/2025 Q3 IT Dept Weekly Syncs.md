@@ -90,6 +90,22 @@ Created By: Jeff Innes
 
 ## Follow-up Action Items (Check off when added to “ToDo list”)
 
-- [ ] Find out if Max learns better from reading or videos
+- [x] Find out if Max learns better from reading or videos
+
+---
+
+# August 12, 2025
+
+## From Staff?
+
+- TN01 is getting pre-qualified
+
+## Points of Interest
+
+- Looking at first two weeks of Sept for NAS replacements
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ]
 
 ---

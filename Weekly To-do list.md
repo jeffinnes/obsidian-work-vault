@@ -21,7 +21,7 @@
 ## Tuesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
@@ -29,7 +29,6 @@
 - [ ] Snipe-IT tasks
 	- [ ] Get email working
 - [ ] Waitwhile Visit alert via api?
-- [ ] Help James in anyway I can
 - [ ] Work on issue prioritization
 
 ---
@@ -41,9 +40,7 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
-
-
+- [ ] Help James in anyway I can
 
 ---
 ## Thursday
@@ -63,13 +60,10 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] 
-
   
 ---
 ## Saturday / Sunday
-
 - [ ] 
-
   
 ---
 ---

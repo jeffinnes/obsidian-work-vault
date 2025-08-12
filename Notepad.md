@@ -40,3 +40,6 @@ Loren & Max
 - A tool to shut down all the stores in an area
 	- Also for department
 	- Also just individual stores
+
+
+Need to install
