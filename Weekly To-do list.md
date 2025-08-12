@@ -30,7 +30,8 @@
 	- [x] Get email working
 - [x] Waitwhile Visit alert via api?
 	- They will get back to me
-- [ ] Work on issue prioritization
+- [x] Clean up GitHub Repos
+- [x] Work on GH issue prioritization
 - [x] Review Max's script
 
 ---
@@ -43,6 +44,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Help James in anyway I can
+- [ ] Work on GH issue prioritization
 
 ---
 ## Thursday
