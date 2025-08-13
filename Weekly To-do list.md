@@ -39,15 +39,14 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] IT Mgr Meeting
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Help James in anyway I can
-- [ ] Snipe-IT tasks
-	- [ ] SSL
-	- [ ] Fill in Subscription data
-- [ ] Work on GH issue prioritization
+- [x] Help James in anyway I can
+	- [x] Work on Schedule Template page
+- [x] Meet with Loren
+- [x] Meet with Loren again
 
 
 ---
@@ -57,7 +56,10 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Continue to help James
+	- [ ] Finish styling new employee form
+	- [ ] finish form functionality
+	- [ ] Continue working on the schedule template page.
 
 ---
 ## Friday
@@ -67,7 +69,10 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Snipe-IT tasks
+	- [ ] SSL
+	- [ ] Fill in Subscription data
+- [ ] Work on GH issue prioritization
   
 ---
 ## Saturday / Sunday
