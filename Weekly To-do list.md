@@ -38,13 +38,17 @@
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] IT Mgr Meeting
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Help James in anyway I can
+- [ ] Snipe-IT tasks
+	- [ ] SSL
+	- [ ] Fill in Subscription data
 - [ ] Work on GH issue prioritization
+
 
 ---
 ## Thursday
