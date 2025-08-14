@@ -61,6 +61,10 @@
 	- [ ] Update GitHub issue with how the feature is supposed to work
 	- [ ] 🧑‍💻
 - [ ] New Merch BI Meeting
+	- Couldn't make it
+- [x] Mgr meeting
+- [ ] Meet with Max
+	- [ ] Address concerns with Randall's behavior
 
 ---
 ## Friday
