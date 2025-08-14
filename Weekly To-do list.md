@@ -53,13 +53,14 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Continue to help James
-	- [ ] Finish styling new employee form
-	- [ ] finish form functionality
-	- [ ] Continue working on the schedule template page.
+	- [ ] Roll back commit
+	- [ ] Update GitHub issue with how the feature is supposed to work
+	- [ ] 🧑‍💻
+- [ ] New Merch BI Meeting
 
 ---
 ## Friday
