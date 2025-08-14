@@ -66,6 +66,41 @@ Type: Weekly Sync
 
 ## Follow-up Action Items (Check off after adding to “ToDo” list)
 
-- [ ]
+- [ ] 
+
+---
+# August 14, 2025
+
+## Important Takeaways
+
+- I'm not sure this was technically the weekly meeting as it was just suddenly called but since we didn't have one on Wed and all three of us are in attendance I will assume this is the case.
+
+- Cat Mountain
+	- Steve finished trip #1
+		- Replaced the work station (not a domain computer)
+		- The iPad is working again
+	- Office 365
+	- Still need to be done
+		- Replace Pam's computer (and she needs to cancel her Adobe)
+		- Two other computers need to come out of there
+- Celerant Zip things
+	- Steve and Max will work on tweaking alerts
+- Melissa new offices
+	- Steve is working these
+	- Gotta figure out who to send (Probably Max or Daniel)
+- Brandon's 90 day is coming up at the end of this month
+- Brandon is going to help Steve with
+
+Told Loren the main things I'm working on
+- Helping James
+- Snipe-IT
+- Working with Max
+	- Considering projects I can give him
+- 
+
+## Follow-up Action Items (Check off after adding to “ToDo” list)
+
+- [ ] Make the MGR Task Audit Spreadsheet and get the guys doing it
+- [ ] Start thinking about how to delegate things
 
 ---
