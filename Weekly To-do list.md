@@ -56,6 +56,7 @@
 - [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] IT mgr meeting
 - [ ] Continue to help James
 	- [ ] Roll back commit
 	- [ ] Update GitHub issue with how the feature is supposed to work
@@ -74,6 +75,10 @@
 	- [ ] SSL
 	- [ ] Fill in Subscription data
 - [ ] Work on GH issue prioritization
+- [ ] Offline documentation binder
+	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
+	- Have Daniel update the service provider pages
+	- Add to Ransomware docs that all windows passwords get reset once AD is backup
   
 ---
 ## Saturday / Sunday
