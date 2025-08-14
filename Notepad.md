@@ -42,4 +42,8 @@ Loren & Max
 	- Also just individual stores
 
 
-Need to install
+Offline documentation binder
+
+- Add into the ransomware plan a list of the stores by revenue so we can prioritize
+- Have Daniel update the service provider pages
+- Add to Ransomware docs that all windows passwords get reset once AD is backup
