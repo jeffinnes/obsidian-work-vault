@@ -30,19 +30,24 @@
 	- [x] Get email working
 - [x] Waitwhile Visit alert via api?
 	- They will get back to me
-- [ ] Work on issue prioritization
+- [x] Clean up GitHub Repos
+- [x] Work on GH issue prioritization
 - [x] Review Max's script
 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] Check Grafana
+- [x] IT Mgr Meeting
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Help James in anyway I can
+- [x] Help James in anyway I can
+	- [x] Work on Schedule Template page
+- [x] Meet with Loren
+- [x] Meet with Loren again
+
 
 ---
 ## Thursday
@@ -51,7 +56,10 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Continue to help James
+	- [ ] Finish styling new employee form
+	- [ ] finish form functionality
+	- [ ] Continue working on the schedule template page.
 
 ---
 ## Friday
@@ -61,7 +69,10 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Snipe-IT tasks
+	- [ ] SSL
+	- [ ] Fill in Subscription data
+- [ ] Work on GH issue prioritization
   
 ---
 ## Saturday / Sunday
