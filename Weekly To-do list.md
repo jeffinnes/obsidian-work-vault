@@ -76,9 +76,9 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Meet with Loren about post CAC stuff
-- [ ] Continue to help James
+- [x] Continue to help James
 	- Start with finishing the save functionality
-	- [ ] 🧑‍💻
+	- [x] 🧑‍💻
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
@@ -96,6 +96,19 @@
 ---
 ## Next week’s planned and rollover items
 
+- [ ] Continue to help James
+	- Before starting any new features of this page do these tasks
+	- [ ] the new employee form needs validation
+	- [ ] leading zeros should be removed from the hours when the field is unfocused.
+	- [ ] 🧑‍💻
+- [ ] Snipe-IT tasks
+	- [ ] SSL
+	- [ ] Fill in Subscription data
+- [ ] Work on GH issue prioritization
+- [ ] Offline documentation binder
+	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
+	- Have Daniel update the service provider pages
+	- Add to Ransomware docs that all windows passwords get reset once AD is backup
 - [ ] Pins for some kind of little tangible rewards
 - [ ] Set Sabrina up with PowerBI
     - [ ] Share the templates with her
