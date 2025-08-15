@@ -56,12 +56,16 @@
 - [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] IT mgr meeting
-- [ ] Continue to help James
-	- [ ] Roll back commit
-	- [ ] Update GitHub issue with how the feature is supposed to work
-	- [ ] 🧑‍💻
+- [x] IT mgr meeting
+- [x] Continue to help James
+	- [x] Roll back commit
+	- [x] Update GitHub issue with how the feature is supposed to work
+	- [x] 🧑‍💻
 - [ ] New Merch BI Meeting
+	- Couldn't make it
+- [x] Mgr meeting
+- [x] Meet with Max
+	- [x] Address concerns with Randall's behavior
 
 ---
 ## Friday
@@ -71,6 +75,9 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] Continue to help James
+	- Start with finishing the save functionality
+	- [ ] 🧑‍💻
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
