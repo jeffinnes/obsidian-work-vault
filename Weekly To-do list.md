@@ -62,7 +62,7 @@
 	- [x] Update GitHub issue with how the feature is supposed to work
 	- [x] 🧑‍💻
 - [ ] New Merch BI Meeting
-	- Couldn't make it
+	- Couldn't make it due to mgr meeting
 - [x] Mgr meeting
 - [x] Meet with Max
 	- [x] Address concerns with Randall's behavior
@@ -71,7 +71,7 @@
 ## Friday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
