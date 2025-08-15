@@ -75,6 +75,7 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [x] Meet with Loren about post CAC stuff
 - [ ] Continue to help James
 	- Start with finishing the save functionality
 	- [ ] 🧑‍💻
