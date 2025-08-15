@@ -40,3 +40,11 @@ Loren & Max
 - A tool to shut down all the stores in an area
 	- Also for department
 	- Also just individual stores
+
+
+From CAC:
+- Melissa want's a smaller laptop (she has a 16", they have 14")
+- Area managers don't think we need to replace their laptops and the training tablets are good
+- Area's will be reshuffling
+	- We will get the list from Sabrina
+- 
