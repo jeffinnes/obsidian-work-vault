@@ -2,91 +2,60 @@
 ## Monday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Ticket Report
-- [x] Connecteam startdate script
+- [ ] Check Grafana
+- [ ] IT Ticket Report
+- [ ] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Waitwhile limit follow ups
-	- [x] Check limit
-	- [x] Respond to RB
-	- [x] Respond to SB
-- [x] Finish getting Snipe-IT setup
-- [x] Get Twilio Auths signed
-- [x] Computer use discussion with Daniel
-	- [x] Document
+- [ ] Continue to help James
+	- Before starting any new features of this page do these tasks
+	- [ ] the new employee form needs validation
+	- [ ] leading zeros should be removed from the hours when the field is unfocused.
+	- [ ] 🧑‍💻
+- [ ] Sabrina Catch up meeting
 
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Check Grafana
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Snipe-IT tasks
-	- [x] Get email working
-- [x] Waitwhile Visit alert via api?
-	- They will get back to me
-- [x] Clean up GitHub Repos
-- [x] Work on GH issue prioritization
-- [x] Review Max's script
+- [ ] 
 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Mgr Meeting
-- [x] Store Reports if Loren isn’t in
+- [ ] Check Grafana
+- [ ] IT Mgr Meeting
+- [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Help James in anyway I can
-	- [x] Work on Schedule Template page
-- [x] Meet with Loren
-- [x] Meet with Loren again
+- [ ] 
 
 
 ---
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] IT mgr meeting
-- [x] Continue to help James
-	- [x] Roll back commit
-	- [x] Update GitHub issue with how the feature is supposed to work
-	- [x] 🧑‍💻
-- [ ] New Merch BI Meeting
-	- Couldn't make it due to mgr meeting
-- [x] Mgr meeting
-- [x] Meet with Max
-	- [x] Address concerns with Randall's behavior
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Meet with Loren about post CAC stuff
-- [x] Continue to help James
-	- Start with finishing the save functionality
-	- [x] 🧑‍💻
-- [ ] Snipe-IT tasks
-	- [ ] SSL
-	- [ ] Fill in Subscription data
-- [ ] Work on GH issue prioritization
-- [ ] Offline documentation binder
-	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
-	- Have Daniel update the service provider pages
-	- Add to Ransomware docs that all windows passwords get reset once AD is backup
+- [ ] 
   
 ---
 ## Saturday / Sunday
@@ -96,11 +65,6 @@
 ---
 ## Next week’s planned and rollover items
 
-- [ ] Continue to help James
-	- Before starting any new features of this page do these tasks
-	- [ ] the new employee form needs validation
-	- [ ] leading zeros should be removed from the hours when the field is unfocused.
-	- [ ] 🧑‍💻
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
