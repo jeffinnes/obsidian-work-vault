@@ -2,19 +2,18 @@
 ## Monday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] IT Ticket Report
-- [ ] Connecteam startdate script
+- [x] Check Grafana
+- [x] IT Ticket Report
+- [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Continue to help James
 	- Before starting any new features of this page do these tasks
-	- [ ] the new employee form needs validation
-	- [ ] leading zeros should be removed from the hours when the field is unfocused.
+	- [x] the new employee form needs validation
 	- [ ] 🧑‍💻
 - [x] Sabrina Catch up meeting
-- [ ] Follow-up action items from meeting with Sabrina
-- [ ] 
+- [x] Follow-up action items from meeting with Sabrina
+- [ ] Double check that we are good to move forward with the Waitwhile renewal
 
   
 ---
@@ -27,7 +26,8 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] 
-
+- [ ] Continue to help James
+	- [ ] 🧑‍💻
 ---
 ## Wednesday
 

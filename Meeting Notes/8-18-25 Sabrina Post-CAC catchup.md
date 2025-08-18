@@ -50,7 +50,6 @@ Touch base on
 	- [x] EoM Template
 	- [x] Transfer Logs
 	- [x] Backstock log
-- [ ] Update GitHub tasks
-	- [ ] EoM Template
-	- [ ] Transfer Logs
-	- [ ] Backstock log
+- [x] Update GitHub tasks
+	- [x] EoM Template
+	- [x] Backstock log
