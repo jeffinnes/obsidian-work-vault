@@ -7,13 +7,14 @@
 - [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Continue to help James
+- [x] Continue to help James
 	- Before starting any new features of this page do these tasks
 	- [x] the new employee form needs validation
-	- [ ] 🧑‍💻
+	- [x] 🧑‍💻
 - [x] Sabrina Catch up meeting
 - [x] Follow-up action items from meeting with Sabrina
-- [ ] Double check that we are good to move forward with the Waitwhile renewal
+- [x] Double check that we are good to move forward with the Waitwhile renewal
+	- [x] Let heather know
 
   
 ---
@@ -25,8 +26,8 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
 - [ ] Continue to help James
+	- Start by reviewing the delete modal changes before committing them
 	- [ ] 🧑‍💻
 ---
 ## Wednesday
