@@ -1,8 +1,9 @@
-## Meta
-### Date: 8-18-25
-### Participants
-- Jeff
-- Sabrina
+---
+Date: 2025-08-18
+Type: Internal Meeting
+Participants:
+  - Sabrina
+---
 
 ## Agenda
 Touch base on

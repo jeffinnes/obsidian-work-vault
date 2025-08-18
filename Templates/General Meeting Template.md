@@ -1,7 +1,9 @@
-## Meta
-### Future date: 
-### Participants
-
+---
+Date: 2025-07-01
+Type: TEMPLATE
+Participants:
+- 
+---
 ## Agenda
 
 
