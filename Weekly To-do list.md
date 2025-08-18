@@ -12,7 +12,9 @@
 	- [ ] the new employee form needs validation
 	- [ ] leading zeros should be removed from the hours when the field is unfocused.
 	- [ ] 🧑‍💻
-- [ ] Sabrina Catch up meeting
+- [x] Sabrina Catch up meeting
+- [ ] Follow-up action items from meeting with Sabrina
+- [ ] 
 
   
 ---

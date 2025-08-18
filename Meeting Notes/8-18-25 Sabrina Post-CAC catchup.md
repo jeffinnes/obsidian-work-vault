@@ -22,11 +22,11 @@ Touch base on
 			- Count of boxes to which store
 			- Each store feed one single outlet so all four will need to be drop down options
 	- Scannable donations
-		- Checkbox to confirm no scannables above notes
-- Transfer logs (See og 1.7.2) - Come up with ETA
+		- Checkbox to confirm no scannable above notes
+- Transfer logs (See OG 1.7.2) - Come up with ETA
 	- Currently they don't have a good way to transfer to Acct
 	- Eventually it could make sense to merge into backstock
-	- Start as sepearte app but lay groundwork to merge
+	- Start as separate app but lay groundwork to merge
 	- The order number could be duplicate
 	- Need edit or delete
 	- Separate ins from outs on the transfers page
@@ -45,4 +45,12 @@ Touch base on
 
 
 ## Next Steps
-- [ ] 
+- [x] Drop a link to Sabrina
+- [x] Update project tracking
+	- [x] EoM Template
+	- [x] Transfer Logs
+	- [x] Backstock log
+- [ ] Update GitHub tasks
+	- [ ] EoM Template
+	- [ ] Transfer Logs
+	- [ ] Backstock log
