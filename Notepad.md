@@ -47,4 +47,5 @@ From CAC:
 - Area managers don't think we need to replace their laptops and the training tablets are good
 - Area's will be reshuffling
 	- We will get the list from Sabrina
-- 
+
+
