@@ -29,7 +29,7 @@
 - [x] Continue to help James
 	- [x] Start by reviewing the delete modal changes before committing them
 	- [x] 🧑‍💻
-- [ ] Transfer Log
+- [x] Transfer Log
 ---
 ## Wednesday
 
@@ -39,7 +39,8 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Transfer Log
+	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
 
 ---
