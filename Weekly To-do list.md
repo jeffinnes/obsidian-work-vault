@@ -21,13 +21,13 @@
 ## Tuesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] Update tickets at 11a
+- [x] Check Grafana
+- [x] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Continue to help James
-	- Start by reviewing the delete modal changes before committing them
+	- [x] Start by reviewing the delete modal changes before committing them
 	- [ ] 🧑‍💻
 ---
 ## Wednesday

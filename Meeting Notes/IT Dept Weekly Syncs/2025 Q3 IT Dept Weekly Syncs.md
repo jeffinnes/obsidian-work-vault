@@ -2,7 +2,65 @@
 Created: 2025-07-01T12:29
 Type: Weekly Sync
 Created By: Jeff Innes
+Last Edited Time:
 ---
+# August 19, 2025
+
+## From Staff?
+
+- Just the area changes
+- Labor day
+	- Randall and Max will cover
+
+## Points of Interest
+
+- Mention: Waitwhile renewal just went through
+- 
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ]
+
+---
+# August 12, 2025
+
+## From Staff?
+
+- TN01 is getting pre-qualified
+
+## Points of Interest
+
+- Looking at first two weeks of Sept for NAS replacements
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ]
+
+---
+# August 05, 2025
+
+## From Staff?
+
+- R&M is busy
+- TN02 location has been IDed
+	- Be ready for trip
+- Maint going to do some work at NY02
+	- We'll need to go do the wiring
+	- No timeline on this
+- 
+
+## Points of Interest
+
+- Loren has asked Max to look into getting JS book
+- Alies is to run prices on a new iPad because the personal one she brought in is too out of date to connect to our WiFi
+- 
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [x] Find out if Max learns better from reading or videos
+
+---
+
 # July 29, 2025
 
 ## From Staff?
@@ -64,45 +122,6 @@ Created By: Jeff Innes
 - AZ02 Manager is going to AZ04
 
 ## Points of Interest
-
-## Follow-up Action Items (Check off when added to “ToDo list”)
-
-- [ ]
-
----
-# August 05, 2025
-
-## From Staff?
-
-- R&M is busy
-- TN02 location has been IDed
-	- Be ready for trip
-- Maint going to do some work at NY02
-	- We'll need to go do the wiring
-	- No timeline on this
-- 
-
-## Points of Interest
-
-- Loren has asked Max to look into getting JS book
-- Alies is to run prices on a new iPad because the personal one she brought in is too out of date to connect to our WiFi
-- 
-
-## Follow-up Action Items (Check off when added to “ToDo list”)
-
-- [x] Find out if Max learns better from reading or videos
-
----
-
-# August 12, 2025
-
-## From Staff?
-
-- TN01 is getting pre-qualified
-
-## Points of Interest
-
-- Looking at first two weeks of Sept for NAS replacements
 
 ## Follow-up Action Items (Check off when added to “ToDo list”)
 
