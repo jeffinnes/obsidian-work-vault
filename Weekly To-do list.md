@@ -39,6 +39,10 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [x] I got promoted!
+- [ ] Waitwhile Auth
+- [ ] Audit stuff
+- [ ] Next project for Randall
 - [ ] Transfer Log
 	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
