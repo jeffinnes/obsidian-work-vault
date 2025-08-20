@@ -39,7 +39,7 @@ Touch base on
 		- Checkbox in form
 		- Color code light grey road
 	- For the sort by box number request
-		- We can't predict how people will number so sorting will be nearly
+		- We can't predict how people will number so sorting will be nearly impossible
 		- We will sort by box date now that it will be editable
 - 
 

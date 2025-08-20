@@ -21,14 +21,15 @@
 ## Tuesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] Check Grafana
+- [x] Update tickets at 11a
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Continue to help James
-	- Start by reviewing the delete modal changes before committing them
-	- [ ] 🧑‍💻
+- [x] Continue to help James
+	- [x] Start by reviewing the delete modal changes before committing them
+	- [x] 🧑‍💻
+- [x] Transfer Log
 ---
 ## Wednesday
 
@@ -38,7 +39,8 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Transfer Log
+	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
 
 ---
