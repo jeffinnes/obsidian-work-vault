@@ -51,9 +51,11 @@ I was in a bit late today
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [x] Hover settings
+	- [ ] Set up project for SPF records?
 - [ ] Transfer Log
 	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
