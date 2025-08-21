@@ -34,13 +34,17 @@
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] IT Mgr Meeting
+- [x] Check Grafana
+- [x] IT Mgr Meeting
 - [ ] Store Reports if Loren isn’t in
-- [ ] Professional Development Activity
+- [x] Professional Development Activity
 ### Daily Tasks
-- [ ] Transfer Log
-	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
+I was in a bit late today
+- [x] I got promoted!
+- [x] Waitwhile Auth
+- [x] Audit stuff
+- [x] Next project for Randall
+- [x] Find the store area change checklist
 
 
 ---
@@ -50,7 +54,8 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Transfer Log
+	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
 ---
 ## Friday
