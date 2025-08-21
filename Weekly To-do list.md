@@ -57,11 +57,11 @@ I was in a bit late today
 - [x] Hover check-in (regarding Organization setting)
 	- [ ] Set up project for SPF records?
 - [x] MGR Meeting
-- [ ] Adobe Meeting
-- [ ] Max to get a user guide written up for the digital signage
-- [ ] Check in with marketing about the location/area updates
-	- [ ] and HR
-	- [ ] and the printer paths
+- [x] Adobe Meeting
+- [x] Max to get a user guide written up for the digital signage
+- [x] Check in with marketing about the location/area updates
+	- [x] and HR (Steve said he will do this)
+	- [x] and the printer paths
 - [ ] Get with Brian for the Checklists
 - [ ] Transfer Log
 	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
@@ -79,6 +79,7 @@ I was in a bit late today
 	- Have Daniel update the service provider pages
 	- Add to Ransomware docs that all windows passwords get reset once AD is backup
 - [ ] Transfer Log
+- [ ] Review Adobe info with Sabrina
   
 ---
 ## Saturday / Sunday
