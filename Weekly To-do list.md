@@ -56,6 +56,12 @@ I was in a bit late today
 ### Daily Tasks
 - [x] Hover settings
 	- [ ] Set up project for SPF records?
+- [ ] MGR Meeting
+- [ ] Max to get a user guide written up for the digital signage
+- [ ] Check in with marketing about the location/area updates
+	- [ ] and HR
+	- [ ] and the printer paths
+- [ ] Get with Brian for the Checklists
 - [ ] Transfer Log
 	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
