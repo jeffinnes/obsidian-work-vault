@@ -74,7 +74,8 @@ I was in a bit late today
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Finish up store area change checklists 
+- [ ] Finish up store area change checklists
+- [ ] Get checklists created
 - [ ] Offline documentation binder
 	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
 	- Have Daniel update the service provider pages
