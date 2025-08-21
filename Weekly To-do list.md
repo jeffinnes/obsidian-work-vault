@@ -62,7 +62,7 @@ I was in a bit late today
 - [x] Check in with marketing about the location/area updates
 	- [x] and HR (Steve said he will do this)
 	- [x] and the printer paths
-- [ ] Get with Brian for the Checklists
+- [x] Get with Brian for the Checklists
 - [ ] Transfer Log
 	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
 
@@ -74,7 +74,8 @@ I was in a bit late today
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ]  Offline documentation binder
+- [ ] Finish up store area change checklists 
+- [ ] Offline documentation binder
 	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
 	- Have Daniel update the service provider pages
 	- Add to Ransomware docs that all windows passwords get reset once AD is backup
