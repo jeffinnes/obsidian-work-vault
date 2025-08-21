@@ -54,9 +54,10 @@ I was in a bit late today
 - [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Hover settings
+- [x] Hover check-in (regarding Organization setting)
 	- [ ] Set up project for SPF records?
-- [ ] MGR Meeting
+- [x] MGR Meeting
+- [ ] Adobe Meeting
 - [ ] Max to get a user guide written up for the digital signage
 - [ ] Check in with marketing about the location/area updates
 	- [ ] and HR
@@ -73,7 +74,11 @@ I was in a bit late today
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ]  Offline documentation binder
+	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
+	- Have Daniel update the service provider pages
+	- Add to Ransomware docs that all windows passwords get reset once AD is backup
+- [ ] Transfer Log
   
 ---
 ## Saturday / Sunday
@@ -86,11 +91,8 @@ I was in a bit late today
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
+- [ ] Set up project for SPF records?
 - [ ] Work on GH issue prioritization
-- [ ] Offline documentation binder
-	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
-	- Have Daniel update the service provider pages
-	- Add to Ransomware docs that all windows passwords get reset once AD is backup
 - [ ] Pins for some kind of little tangible rewards
 - [ ] Set Sabrina up with PowerBI
     - [ ] Share the templates with her
