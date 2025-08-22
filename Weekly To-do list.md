@@ -74,13 +74,14 @@ I was in a bit late today
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Finish up store area change checklists
+- [x] Finish up store area change checklists
 - [x] Check on Twilio usage
 - [x] Offline documentation binder
 	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
 	- Have Daniel update the service provider pages
 	- Add to Ransomware docs that all windows passwords get reset once AD is backup
-- [ ] Transfer Log
+- [x] Transfer Log
+- [x] Review Digital Signage instructions
 - [ ] Review Adobe info with Sabrina (If it comes in and is actually a better deal)
   
 ---
@@ -92,7 +93,8 @@ I was in a bit late today
 ## Next week’s planned and rollover items
 
 - [ ] Check Twilio usage again (see how follow up texts impacted usage around 8/20 & 8/21)
-- [ ] Update the
+- [ ] Transfer Log
+	- Start by creating a context similar to the backstock one
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
