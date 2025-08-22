@@ -70,18 +70,18 @@ I was in a bit late today
 ## Friday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Finish up store area change checklists
-- [ ] Get checklists created
-- [ ] Offline documentation binder
+- [x] Check on Twilio usage
+- [x] Offline documentation binder
 	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
 	- Have Daniel update the service provider pages
 	- Add to Ransomware docs that all windows passwords get reset once AD is backup
 - [ ] Transfer Log
-- [ ] Review Adobe info with Sabrina
+- [ ] Review Adobe info with Sabrina (If it comes in and is actually a better deal)
   
 ---
 ## Saturday / Sunday
@@ -91,6 +91,8 @@ I was in a bit late today
 ---
 ## Next week’s planned and rollover items
 
+- [ ] Check Twilio usage again (see how follow up texts impacted usage around 8/20 & 8/21)
+- [ ] Update the
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
