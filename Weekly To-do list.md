@@ -7,82 +7,62 @@
 - [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Continue to help James
-	- Before starting any new features of this page do these tasks
-	- [x] the new employee form needs validation
-	- [x] 🧑‍💻
-- [x] Sabrina Catch up meeting
-- [x] Follow-up action items from meeting with Sabrina
-- [x] Double check that we are good to move forward with the Waitwhile renewal
-	- [x] Let heather know
-
+- [x] Audit Task Set-up
+- [x] JAMS Migration status
+- [x] Adobe Renewal tasks
+	- [x] Actually run the numbers
+	- [x] Go over it with Sabrina
+	- [x] Schedule decision email
+- [x] Check Twilio usage again (see how follow up texts impacted usage around 8/20 & 8/21)
+- CTK - Consignment Payables
+	- [x] Code Review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
+	- [x] Check with Sabrina
+	- [x] Check in with Lanae
+- [x] Store > Area assignment checklist creation
+- [ ] Transfer Log
+	- Start by creating a context similar to the backstock one
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Check Grafana
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Continue to help James
-	- [x] Start by reviewing the delete modal changes before committing them
-	- [x] 🧑‍💻
-- [x] Transfer Log
+- [ ] Assign Audit Tasks
+- [ ] Transfer Log
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Mgr Meeting
+- [ ] Check Grafana
+- [ ] IT Mgr Meeting
 - [ ] Store Reports if Loren isn’t in
-- [x] Professional Development Activity
+- [ ] Professional Development Activity
 ### Daily Tasks
-I was in a bit late today
-- [x] I got promoted!
-- [x] Waitwhile Auth
-- [x] Audit stuff
-- [x] Next project for Randall
-- [x] Find the store area change checklist
+- [ ] 
 
 
 ---
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Hover check-in (regarding Organization setting)
-	- [ ] Set up project for SPF records?
-- [x] MGR Meeting
-- [x] Adobe Meeting
-- [x] Max to get a user guide written up for the digital signage
-- [x] Check in with marketing about the location/area updates
-	- [x] and HR (Steve said he will do this)
-	- [x] and the printer paths
-- [x] Get with Brian for the Checklists
-- [ ] Transfer Log
-	- I left off with the outgoing log. Just made the table headers, next I should build out the add/edit functionality
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Finish up store area change checklists
-- [x] Check on Twilio usage
-- [x] Offline documentation binder
-	- Add into the ransomware plan a list of the stores by revenue so we can prioritize
-	- Have Daniel update the service provider pages
-	- Add to Ransomware docs that all windows passwords get reset once AD is backup
-- [x] Transfer Log
-- [x] Review Digital Signage instructions
-- [ ] Review Adobe info with Sabrina (If it comes in and is actually a better deal)
+- [ ] 
   
 ---
 ## Saturday / Sunday
@@ -92,9 +72,6 @@ I was in a bit late today
 ---
 ## Next week’s planned and rollover items
 
-- [ ] Check Twilio usage again (see how follow up texts impacted usage around 8/20 & 8/21)
-- [ ] Transfer Log
-	- Start by creating a context similar to the backstock one
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
