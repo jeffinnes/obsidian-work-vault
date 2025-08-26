@@ -19,7 +19,7 @@
 	- [x] Check with Sabrina
 	- [x] Check in with Lanae
 - [x] Store > Area assignment checklist creation
-- [ ] Transfer Log
+- [x] Transfer Log
 	- Start by creating a context similar to the backstock one
   
 ---
@@ -33,6 +33,7 @@
 ### Daily Tasks
 - [ ] Assign Audit Tasks
 - [ ] Transfer Log
+	- Just wire up Sentry again, trying to scalpel it out isn't worth the trouble
 ---
 ## Wednesday
 
