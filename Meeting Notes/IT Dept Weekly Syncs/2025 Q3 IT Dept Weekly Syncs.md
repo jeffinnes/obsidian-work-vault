@@ -4,6 +4,26 @@ Type: Weekly Sync
 Created By: Jeff Innes
 Last Edited Time:
 ---
+# August 26, 2025
+
+## From Staff?
+
+- 
+
+## Points of Interest
+
+- Alies needs to reach out to TN01 to see how that terminal that was replaced is doing
+- Alies is waiting to hear back about NY06's new terminal
+- Brandon needs to make a ticket about his memory utilization research project
+- Daniel is working on an audit of the auto login for store terminals
+- Steve needs to get with Sarah M to define the NY store trip scope because things are moving a bit
+- 
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ] Make a ticket for Store/Area changes
+
+---
 # August 19, 2025
 
 ## From Staff?

@@ -26,12 +26,16 @@
 ## Tuesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] Update tickets at 11a
+- [x] Check Grafana
+- [x] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Assign Audit Tasks
+- [x] Meet with Loren
+- [x] Grasshopper auth
+- [x] Help Max with the documentation
+- [x] Waitwhile reporting oddities
+- [x] Assign Audit Tasks
 - [ ] Transfer Log
 	- Just wire up Sentry again, trying to scalpel it out isn't worth the trouble
 ---
