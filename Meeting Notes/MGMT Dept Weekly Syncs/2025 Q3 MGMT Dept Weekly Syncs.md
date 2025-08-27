@@ -7,10 +7,34 @@ Type: Weekly Sync
 ## Important Takeaways
 
 - Should Daniel and James go to that conference?
+- Goal to get stuff off my plate by December
+- Windows 11 upgrades to be done by 10/1
+- Dept projects:
+	- Looking into auto start (Daniel is gathering info)
+	- Server memory utilization audit (Brandon)
+		- Once he has built it out, Steve will take it over and lead the effort to figure out what
+	- Max working on speed checks
+		- Stuff is coming up that needs to be looked into
+	- Ransomware recovery test (Brian is overseeing this, see project folder)
+		- Loren suggested they also do 4 Acct computers
+		- 5 servers
+	- Project to update all VMs to server 2022
+	- The new server installs are goaled to be done 10/15
+- Daniel, Brian, Alies are going to the Tech Summit on 9/10
+- Celerant testing - Steve will try and do today
+- Steve is going to work on the production room stuff
+- Get the mobile POS documentation updated to have a cover sheet with the border thing
 
+Next dev projects
+- BS Log post CAC changes
+- CTK EOM email changes
+- ACH Batch tool
+- Then RBs
+- Then Monica's
 ## Follow-up Action Items (Check off after adding to “ToDo” list)
-
-- [ ] 
+- [ ] Get the monthly audits so they are just one person per month (Brian to do them, me to check that he did them for the first month)
+- [ ] Get the mobile POS documentation updated to have a cover sheet with the border thing
+- [ ] Run the server db BI report and share it with the MGRs
 
 ---
 # August 21, 2025
