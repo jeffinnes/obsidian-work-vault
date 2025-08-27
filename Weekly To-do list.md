@@ -42,13 +42,16 @@
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] IT Mgr Meeting
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Make a ticket for Store/Area changes
+- [x] Make a ticket for Store/Area changes
 - [ ] Open Source Contribution
+- [ ] Randall 1:1
+- [ ] James 1:1
+- [ ] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
 - [ ] Transfer Log
 	- Update the page title
 	- Finish implementing the log filter (add the Month/year filters)
@@ -77,7 +80,7 @@
   
 ---
 ## Saturday / Sunday
-- [ ] 
+- [ ] CamCan: Set GA01's advocate to 'Inactive Area'
   
 ---
 ---

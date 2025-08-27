@@ -41,16 +41,3 @@ Loren & Max
 	- Also for department
 	- Also just individual stores
 
-
-From CAC:
-- Melissa want's a smaller laptop (she has a 16", they have 14")
-- Area managers don't think we need to replace their laptops and the training tablets are good
-- Area's will be reshuffling
-	- We will get the list from Sabrina
-
-
-8/26 - Loren & Brian
-- Loren found some things in the event logs on the domain controllers and want's Brian to look into them
-	- Loren will provide his screenshots
-- Loren would like Brian to start checking event logs from time to time
-	- I would recommend just making a schedule (vibes based isn't a good system)
