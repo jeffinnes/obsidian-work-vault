@@ -55,7 +55,8 @@
 - [x] Randall 1:1
 	- [x] Remind Randall to set JAMS to never start
 	- [x] Send Randall Pluralsight GitHub videos
-- [ ] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
+- [x] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
+	- [x] Get Lanae to sign off
 - [ ] Transfer Log
 	- Update the page title
 	- Finish implementing the log filter (add the Month/year filters)
