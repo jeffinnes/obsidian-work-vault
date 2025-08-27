@@ -48,6 +48,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Make a ticket for Store/Area changes
+- [ ] Open Source Contribution
 - [ ] Transfer Log
 	- Update the page title
 	- Finish implementing the log filter (add the Month/year filters)
