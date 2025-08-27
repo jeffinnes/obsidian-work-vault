@@ -28,7 +28,7 @@
 ### Repeat Tasks
 - [x] Check Grafana
 - [x] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Meet with Loren
@@ -36,7 +36,7 @@
 - [x] Help Max with the documentation
 - [x] Waitwhile reporting oddities
 - [x] Assign Audit Tasks
-- [ ] Transfer Log
+- [x] Transfer Log
 	- Just wire up Sentry again, trying to scalpel it out isn't worth the trouble
 ---
 ## Wednesday
@@ -47,7 +47,12 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Make a ticket for Store/Area changes
+- [ ] Transfer Log
+	- Update the page title
+	- Finish implementing the log filter (add the Month/year filters)
+	- Finish styling
+	- Then do inbound logging
 
 
 ---
