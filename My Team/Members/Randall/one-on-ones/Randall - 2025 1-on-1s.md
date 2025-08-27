@@ -212,17 +212,22 @@ Finish the color examples in the design system
 
 What has been working well? Is there anything getting in your way or any additional support you need?
 
-_(Frequency: Every time)_
+Randall needs to set the JAMS Hyper-v to not restart on reboot
+
+I'll work with Loren to figure out the next couple projects.
+
+ACH Batch thing
+CTK: add Sentry + some small cleanup things
+Follow up on some BI stuff?
+something else?
 
 ## Feedback
 
 ### From management to you:
-
-_(Frequency: Whenever we have something specific)_
+Nothing in particular
 
 ### Your feedback for me (about me or the team in general):
-
-_(Frequency: I ask for this every time)_
+Nothing big
 
 ## Goals
 
@@ -233,12 +238,13 @@ _(Frequency: Maybe twice a year)_
 ## Professional Development
 
 What are your short and long-term goals? How can we work together to help you meet them?
-
-_(Frequency: Monthly)_
+Wasn't able to last month
+Pluralsight: GitHub
 
 ## Any other issues or concerns
 
-_(Frequency: I always open the floor at the end so they can bring up anything they feel they need to. This is also the time I communicate any other general IT things that need to be mentioned.)_
+Randall will be on desk only because of surgery on 9/25, he'll get docs to HR
+
 
 ---
 ---
