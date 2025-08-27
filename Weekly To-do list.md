@@ -49,9 +49,12 @@
 ### Daily Tasks
 - [x] Make a ticket for Store/Area changes
 - [ ] Open Source Contribution
-- [ ] Randall 1:1
-	- [ ] Remind Randall to set JAMS to never start
-	- [ ] Send Randall Pluralsight GitHub videos
+	- [x] GitHub
+	- [x] KeePass
+	- [ ] UVNC
+- [x] Randall 1:1
+	- [x] Remind Randall to set JAMS to never start
+	- [x] Send Randall Pluralsight GitHub videos
 - [ ] James 1:1
 - [ ] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
 - [ ] Transfer Log
