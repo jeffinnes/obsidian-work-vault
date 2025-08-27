@@ -57,11 +57,10 @@
 	- [x] Send Randall Pluralsight GitHub videos
 - [x] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
 	- [x] Get Lanae to sign off
-- [ ] Transfer Log
-	- Update the page title
-	- Finish implementing the log filter (add the Month/year filters)
-	- Finish styling
-	- Then do inbound logging
+- [x] Transfer Log
+	-  [x] Update the page title
+	-  [x] Finish implementing the log filter (add the Month/year filters)
+	-  [ ] Then do inbound logging
 
 
 ---
@@ -71,7 +70,8 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Transfer Log
+	- [ ] Inbound logging next
 
 ---
 ## Friday
