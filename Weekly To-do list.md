@@ -43,19 +43,18 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] IT Mgr Meeting
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Make a ticket for Store/Area changes
-- [ ] Open Source Contribution
+- [x] Open Source Contribution
 	- [x] GitHub
 	- [x] KeePass
-	- [ ] UVNC
+	- [x] UVNC
 - [x] Randall 1:1
 	- [x] Remind Randall to set JAMS to never start
 	- [x] Send Randall Pluralsight GitHub videos
-- [ ] James 1:1
 - [ ] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
 - [ ] Transfer Log
 	- Update the page title
