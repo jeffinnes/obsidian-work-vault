@@ -71,8 +71,8 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Deploy CTK #142
-- [ ] PI Training
-- [ ] Update App Tracking to include deployment date and complexity level
+- [x] PI Training
+- [x] Update App Tracking to include tech stack and complexity level
 - [ ] Transfer Log
 	- [ ] Inbound logging next
 

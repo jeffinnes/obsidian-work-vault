@@ -10,4 +10,5 @@ Right is high
 
 It can’t measure the skills, it doesn’t know anything about us beyond our base drives
 
-## Part 2
+## Part 2 - Factor Combinations
+Oops I didn't take any notes because I was too busy listening. but I should have written down the combination factors for future reference. I'll need to look those up.
