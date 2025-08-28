@@ -73,8 +73,8 @@
 - [x] Deploy CTK #142
 - [x] PI Training
 - [x] Update App Tracking to include tech stack and complexity level
-- [ ] Transfer Log
-	- [ ] Inbound logging next
+- [x] Transfer Log
+	- [x] Inbound logging next
 
 ---
 ## Friday
@@ -84,7 +84,10 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Transfer Log
+	- [ ] Reporting
+	- [ ] Might need to script adding a bunch of fake records first
+- [ ] Huddle
   
 ---
 ## Saturday / Sunday
