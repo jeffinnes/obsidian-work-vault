@@ -9,3 +9,5 @@ Right is high
 
 
 It can’t measure the skills, it doesn’t know anything about us beyond our base drives
+
+## Part 2

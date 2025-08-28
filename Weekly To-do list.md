@@ -67,9 +67,12 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [x] Deploy CTK #142
+- [ ] PI Training
+- [ ] Update App Tracking to include deployment date and complexity level
 - [ ] Transfer Log
 	- [ ] Inbound logging next
 
