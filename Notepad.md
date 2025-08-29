@@ -41,3 +41,19 @@ Loren & Max
 	- Also for department
 	- Also just individual stores
 
+
+Loren/Steve - 8/28
+- JD and checklist rewrite
+	- Steve and I to colab on
+	- Rewrite line one - that role doesn't exist
+	- Add an "and/or" bullet item to line 2 for my responsibilities
+		- Steve add in store trip coordination
+	- Add Payroll/Scheduling
+	- Update buttons item to be A&P instead of Track-it
+- Then look at associate manager
+- WatchList App
+	- Alies needs to update the instructions
+		- Tell them to zoom in on the person in Reolink before snipping
+		- Have me review then give to Sabrina
+- Make User Guide Template in Google Drive
+- 
