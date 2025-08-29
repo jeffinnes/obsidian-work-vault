@@ -80,14 +80,13 @@
 ## Friday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [ ] Transfer Log
 	- [ ] Reporting
-	- [ ] Might need to script adding a bunch of fake records first
-- [ ] Huddle
+- [x] Huddle
   
 ---
 ## Saturday / Sunday
@@ -97,6 +96,8 @@
 ---
 ## Next week’s planned and rollover items
 
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
 - [ ] Snipe-IT tasks
 	- [ ] SSL
 	- [ ] Fill in Subscription data
