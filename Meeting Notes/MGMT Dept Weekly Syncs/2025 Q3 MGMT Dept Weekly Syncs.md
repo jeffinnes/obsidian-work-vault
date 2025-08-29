@@ -7,6 +7,8 @@ Type: Weekly Sync
 ## Important Takeaways
 
 - Should Daniel and James go to that conference?
+	- Daniel, Brian, Alies are going to the Tech Summit on 9/10
+
 - Goal to get stuff off my plate by December
 - Windows 11 upgrades to be done by 10/1
 - Dept projects:
@@ -19,8 +21,7 @@ Type: Weekly Sync
 		- Loren suggested they also do 4 Acct computers
 		- 5 servers
 	- Project to update all VMs to server 2022
-	- The new server installs are goaled to be done 10/15
-- Daniel, Brian, Alies are going to the Tech Summit on 9/10
+	- The new server installs are goaled to be done 10/15 
 - Celerant testing - Steve will try and do today
 - Steve is going to work on the production room stuff
 - Get the mobile POS documentation updated to have a cover sheet with the border thing
