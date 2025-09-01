@@ -90,7 +90,7 @@
   
 ---
 ## Saturday / Sunday
-- [ ] CamCan: Set GA01's advocate to 'Inactive Area'
+- [x] CamCan: Set GA01's advocate to 'Inactive Area'
   
 ---
 ---
