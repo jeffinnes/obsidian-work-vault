@@ -84,8 +84,8 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Transfer Log
-	- [ ] Reporting
+- [x] Transfer Log
+	- [x] Reporting
 - [x] Huddle
   
 ---
@@ -96,6 +96,8 @@
 ---
 ## Next week’s planned and rollover items
 
+- [ ] Transfer Log
+	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file
 - [ ] Snipe-IT tasks
