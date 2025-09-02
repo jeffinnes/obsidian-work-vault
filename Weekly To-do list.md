@@ -2,95 +2,64 @@
 ## Monday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Ticket Report
-- [x] Connecteam startdate script
+- [ ] Check Grafana
+- [ ] IT Ticket Report
+- [ ] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Audit Task Set-up
-- [x] JAMS Migration status
-- [x] Adobe Renewal tasks
-	- [x] Actually run the numbers
-	- [x] Go over it with Sabrina
-	- [x] Schedule decision email
-- [x] Check Twilio usage again (see how follow up texts impacted usage around 8/20 & 8/21)
-- CTK - Consignment Payables
-	- [x] Code Review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
-	- [x] Check with Sabrina
-	- [x] Check in with Lanae
-- [x] Store > Area assignment checklist creation
-- [x] Transfer Log
-	- Start by creating a context similar to the backstock one
+- [x] Labor day
+- [x] Audit all the area reassignment Gmail Changes
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Meet with Loren
-- [x] Grasshopper auth
-- [x] Help Max with the documentation
-- [x] Waitwhile reporting oddities
-- [x] Assign Audit Tasks
-- [x] Transfer Log
-	- Just wire up Sentry again, trying to scalpel it out isn't worth the trouble
+- [ ] Training Video metrics
+- [ ] Phone Reimbursement
+- [ ] Marketing BI
+- [ ] Transfer Log
+	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Mgr Meeting
-- [x] Store Reports if Loren isn’t in
+- [ ] Check Grafana
+- [ ] IT Mgr Meeting
+- [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Make a ticket for Store/Area changes
-- [x] Open Source Contribution
-	- [x] GitHub
-	- [x] KeePass
-	- [x] UVNC
-- [x] Randall 1:1
-	- [x] Remind Randall to set JAMS to never start
-	- [x] Send Randall Pluralsight GitHub videos
-- [x] Re-review [CTK #142](https://github.com/buffaloexchange/celeranttoolkit/pull/142)
-	- [x] Get Lanae to sign off
-- [x] Transfer Log
-	-  [x] Update the page title
-	-  [x] Finish implementing the log filter (add the Month/year filters)
-	-  [ ] Then do inbound logging
+- [ ] 
 
 
 ---
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Deploy CTK #142
-- [x] PI Training
-- [x] Update App Tracking to include tech stack and complexity level
-- [x] Transfer Log
-	- [x] Inbound logging next
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Transfer Log
-	- [x] Reporting
-- [x] Huddle
+- [ ] 
   
 ---
 ## Saturday / Sunday
-- [x] CamCan: Set GA01's advocate to 'Inactive Area'
+- [ ] 
   
 ---
 ---
