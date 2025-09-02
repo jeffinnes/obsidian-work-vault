@@ -4,6 +4,22 @@ Type: Weekly Sync
 Created By: Jeff Innes
 Last Edited Time:
 ---
+# September 02, 2025
+
+## From Staff?
+
+- NY trip is still getting scoped out
+- Tomorrow: We might get some calls for UKG changes
+
+## Points of Interest
+
+- 
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ]
+
+---
 # August 26, 2025
 
 ## From Staff?
