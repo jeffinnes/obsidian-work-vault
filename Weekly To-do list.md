@@ -40,8 +40,8 @@
 	- [x] report it to commune
 - [x] MAP updates
 - [x] Project tracking updates
-- [ ] Transfer Log
-	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
+- [x] Transfer Log
+	- [x] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
 
 
 
@@ -62,6 +62,8 @@
     - [ ] update prod
     - [ ] test
     - [ ] send all clear
+- [ ] Transfer Log
+	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file
 
