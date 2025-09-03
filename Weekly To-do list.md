@@ -20,7 +20,7 @@
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] Training Video metrics
-- [ ] Phone Reimbursement
+- [x] Phone Reimbursement
 - [x] Marketing BI
 - [x] Fix the Monthly Audit So its just Me and Brian this Month
 - [x] Adobe Auth
@@ -29,17 +29,20 @@
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
+- [x] Check Grafana
+- [x] IT Mgr Meeting
+- [x] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Continue Store Area Change Audit
-- [ ] Check Twilio
+- [x] Send Website Maintenance email
+- [x] Continue Store Area Change Audit
+- [x] Some ATS issue
+	- [x] report it to commune
+- [x] MAP updates
+- [x] Project tracking updates
 - [ ] Transfer Log
 	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
+
 
 
 ---
@@ -49,7 +52,19 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] BuffaloExchange.com maintenance
+    - [ ] 8am Send starting email
+    - [ ] Backup Staging
+    - [ ] Start Staging Sync
+    - [ ] Set JOT redirect in prod
+    - [ ] Test on staging
+    - [ ] back up prod
+    - [ ] update prod
+    - [ ] test
+    - [ ] send all clear
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
+
 
 ---
 ## Friday
@@ -59,7 +74,7 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ]  Check Twilio
   
 ---
 ## Saturday / Sunday
