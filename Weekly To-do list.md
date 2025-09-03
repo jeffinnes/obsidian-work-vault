@@ -15,17 +15,16 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] Update tickets at 11a
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Training Video metrics
+- [x] Training Video metrics
 - [ ] Phone Reimbursement
-- [ ] Marketing BI
-- [ ] Transfer Log
-	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
+- [x] Marketing BI
+- [x] Fix the Monthly Audit So its just Me and Brian this Month
+- [x] Adobe Auth
+- [x] Store Area Change Audit
 ---
 ## Wednesday
 
@@ -35,7 +34,12 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Continue Store Area Change Audit
+- [ ] Check Twilio
+- [ ] Transfer Log
+	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
 
 
 ---
