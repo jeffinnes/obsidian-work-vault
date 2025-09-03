@@ -2,6 +2,17 @@
 Created: 2025-07-02T11:20
 Type: Weekly Sync
 ---
+# September 03, 2025
+
+## Important Takeaways
+
+- Went over the budget and planning for next year
+
+## Follow-up Action Items (Check off after adding to “ToDo” list)
+
+- [ ] 
+
+---
 # August 27, 2025
 
 ## Important Takeaways
