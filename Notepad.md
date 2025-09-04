@@ -57,8 +57,5 @@ Loren/Steve - 8/28
 		- Have me review then give to Sabrina
 - Make User Guide Template in Google Drive
 
+
 Loren - 9/2
-- 2026 project planning
-	- Store servers and handsets at beginning of year
-	- Wireless Antennas - Feb or March
-	- 
