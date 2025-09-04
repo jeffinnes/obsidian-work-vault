@@ -42,6 +42,7 @@
 - [x] Project tracking updates
 - [x] Transfer Log
 	- [x] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
+- [x] Help James troubleshoot some things in his project
 
 
 
@@ -49,23 +50,24 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] BuffaloExchange.com maintenance
-    - [ ] 8am Send starting email
-    - [ ] Backup Staging
-    - [ ] Start Staging Sync
-    - [ ] Set JOT redirect in prod
-    - [ ] Test on staging
-    - [ ] back up prod
-    - [ ] update prod
-    - [ ] test
-    - [ ] send all clear
-- [ ] Transfer Log
+- [x] BuffaloExchange.com maintenance
+    - [x] 8am Send starting email
+    - [x] Backup Staging
+    - [x] Start Staging Sync
+    - [x] Set JOT redirect in prod
+    - [x] Test on staging
+    - [x] back up prod
+    - [x] update prod
+    - [x] test
+    - [x] send all clear
+- [x] Meet with Loren (about chairs?)
+- [x] Figure out what is wrong with Git on my computer
+- [x] Rubber Duck payment auth
+- [x] Transfer Log
 	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
 
 
 ---
@@ -76,7 +78,11 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ]  Check Twilio
+- [ ] Check Twilio
+- [ ] Transfer Log
+	- [ ] Building out the action to fetch the transfers then pass into the component
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
   
 ---
 ## Saturday / Sunday
