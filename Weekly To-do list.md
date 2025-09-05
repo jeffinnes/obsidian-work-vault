@@ -67,22 +67,27 @@
 - [x] Figure out what is wrong with Git on my computer
 - [x] Rubber Duck payment auth
 - [x] Transfer Log
-	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
+	- [x] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Check Twilio
-- [ ] Transfer Log
-	- [ ] Building out the action to fetch the transfers then pass into the component
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
+- [x] Check Twilio
+- [x] IT Inventory Transfer report
+- [x] Meet with Loren about weekly update email
+- [x] Show Loren where disaster recovery plans live
+- [x] Update Hover to use Lupita's card
+- [x] Help Judy
+- [x] Twilio Invoices
+- [x] Transfer Log
+	- [x] Building out the action to fetch the transfers then pass into the component
+- [ ] Start Reviewing Labor Cost
   
 ---
 ## Saturday / Sunday
@@ -93,7 +98,7 @@
 ## Next week’s planned and rollover items
 
 - [ ] Transfer Log
-	- [ ] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
+	- [ ] Matching sheet export
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file
 - [ ] Snipe-IT tasks
