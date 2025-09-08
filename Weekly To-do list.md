@@ -5,7 +5,7 @@
 - [x] Check Grafana
 - [x] IT Ticket Report
 - [x] Connecteam startdate script
-- [ ] Professional Development Activity
+- [x] Professional Development Activity
 ### Daily Tasks
 - [x] Food Delivery
 - [x] Project roundup meeting with Loren
