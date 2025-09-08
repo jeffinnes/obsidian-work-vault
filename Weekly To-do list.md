@@ -10,7 +10,7 @@
 - [x] Food Delivery
 - [x] Project roundup meeting with Loren
 - [x] Review PR [147](https://github.com/buffaloexchange/celeranttoolkit/pull/147)
-- [ ] Review Labor Cost
+- [x] Review Labor Cost
 
   
 ---
@@ -22,7 +22,11 @@
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Review Labor Cost?
+- [ ] Transfer Log
+	- [ ] Matching sheet export
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
 ---
 ## Wednesday
 
