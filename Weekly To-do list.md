@@ -2,47 +2,40 @@
 ## Monday
 
 ### Repeat Tasks
-- [ ] Check Grafana
-- [ ] IT Ticket Report
-- [ ] Connecteam startdate script
+- [x] Check Grafana
+- [x] IT Ticket Report
+- [x] Connecteam startdate script
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Labor day
-- [x] Audit all the area reassignment Gmail Changes
+- [x] Food Delivery
+- [x] Project roundup meeting with Loren
+- [x] Review PR [147](https://github.com/buffaloexchange/celeranttoolkit/pull/147)
+- [ ] Review Labor Cost
+- [ ] Transfer Log
+	- [ ] Matching sheet export
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
   
 ---
 ## Tuesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] Update tickets at 11a
-- [x] IT Dept Meeting
+- [ ] Check Grafana
+- [ ] Update tickets at 11a
+- [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Training Video metrics
-- [x] Phone Reimbursement
-- [x] Marketing BI
-- [x] Fix the Monthly Audit So its just Me and Brian this Month
-- [x] Adobe Auth
-- [x] Store Area Change Audit
+- [ ] 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [x] Check Grafana
-- [x] IT Mgr Meeting
-- [x] Store Reports if Loren isn’t in
+- [ ] Check Grafana
+- [ ] IT Mgr Meeting
+- [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Send Website Maintenance email
-- [x] Continue Store Area Change Audit
-- [x] Some ATS issue
-	- [x] report it to commune
-- [x] MAP updates
-- [x] Project tracking updates
-- [x] Transfer Log
-	- [x] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
-- [x] Help James troubleshoot some things in his project
+- [ ] 
 
 
 
@@ -50,44 +43,20 @@
 ## Thursday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] BuffaloExchange.com maintenance
-    - [x] 8am Send starting email
-    - [x] Backup Staging
-    - [x] Start Staging Sync
-    - [x] Set JOT redirect in prod
-    - [x] Test on staging
-    - [x] back up prod
-    - [x] update prod
-    - [x] test
-    - [x] send all clear
-- [x] Meet with Loren (about chairs?)
-- [x] Figure out what is wrong with Git on my computer
-- [x] Rubber Duck payment auth
-- [x] Transfer Log
-	- [x] Style the accounting log page (this is the end of Accounting Outbound Log view #4)
-
+- [ ] 
 
 ---
 ## Friday
 
 ### Repeat Tasks
-- [x] Check Grafana
+- [ ] Check Grafana
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [x] Check Twilio
-- [x] IT Inventory Transfer report
-- [x] Meet with Loren about weekly update email
-- [x] Show Loren where disaster recovery plans live
-- [x] Update Hover to use Lupita's card
-- [x] Help Judy
-- [x] Twilio Invoices
-- [x] Transfer Log
-	- [x] Building out the action to fetch the transfers then pass into the component
-- [ ] Start Reviewing Labor Cost
+- [ ] 
   
 ---
 ## Saturday / Sunday
