@@ -11,10 +11,7 @@
 - [x] Project roundup meeting with Loren
 - [x] Review PR [147](https://github.com/buffaloexchange/celeranttoolkit/pull/147)
 - [ ] Review Labor Cost
-- [ ] Transfer Log
-	- [ ] Matching sheet export
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
+
   
 ---
 ## Tuesday
@@ -178,3 +175,10 @@ DTC3677433607
   
 
 [[Management Monthly-ish Audits]]
+
+
+teststoremanager
+testaam
+testam
+
+Buffalo1974!!
