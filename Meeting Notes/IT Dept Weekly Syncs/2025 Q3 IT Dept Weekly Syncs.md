@@ -4,6 +4,24 @@ Type: Weekly Sync
 Created By: Jeff Innes
 Last Edited Time:
 ---
+# September 09, 2025
+
+## From Staff?
+
+- They went over the projects
+
+## Points of Interest
+
+- Alies is still waiting to hear back from NY06 regarding the install of their new workstation
+- Daniel met with Granite rep and is still talking to him about the refund for the wiring text and some mis-billing issues
+- A Washington store is already being denied pennies from the bank so Steve has to focus on getting those settings updated
+
+## Follow-up Action Items (Check off when added to “ToDo list”)
+
+- [ ] For New Merch report, we should try to wrap it by EOD 9/20 (final date TBD)
+- [ ] Randall: can we update the Jamless jobs to only report when error code is not 0
+
+---
 # September 02, 2025
 
 ## From Staff?

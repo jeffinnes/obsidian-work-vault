@@ -58,4 +58,3 @@ Loren/Steve - 8/28
 - Make User Guide Template in Google Drive
 
 
-Loren - 9/2

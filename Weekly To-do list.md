@@ -17,12 +17,13 @@
 ## Tuesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Update tickets at 11a
 - [ ] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] Review Labor Cost?
+- [x] What's going on with the Microsoft 365 Apps for Business invoice?
+	- [x] Email MicroAge folks
 - [ ] Transfer Log
 	- [ ] Matching sheet export
 - [ ] Make cover sheets for mpos and mpop instructions
