@@ -18,16 +18,15 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] Update tickets at 11a
-- [ ] IT Dept Meeting
+- [x] Update tickets at 11a
+- [x] IT Dept Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
 - [x] What's going on with the Microsoft 365 Apps for Business invoice?
 	- [x] Email MicroAge folks
-- [ ] Transfer Log
-	- [ ] Matching sheet export
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
+- [x] Transfer Log
+	- [x] Matching sheet export
+- [ ] 
 ---
 ## Wednesday
 
@@ -37,7 +36,9 @@
 - [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Transfer Log - E2E testing
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
 
 
 
