@@ -2,6 +2,23 @@
 Created: 2025-07-02T11:20
 Type: Weekly Sync
 ---
+# September 10, 2025
+
+## Important Takeaways
+
+- Next year's projects
+	- Q1 - Store Servers, Store phone handsets, Wireless bridges
+	- Q2 - GA Checkpoint, Store Wifi AP Replacement, Store Switches
+- Talk to Sabrina about Gift Card redemption rates BI Report
+	- This seems like Loren is being sneaky about this
+- Sabrina auditing accountings time sheets
+	- 
+
+## Follow-up Action Items (Check off after adding to “ToDo” list)
+
+- [ ] 
+
+---
 # September 03, 2025
 
 ## Important Takeaways
