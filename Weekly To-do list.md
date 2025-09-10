@@ -26,16 +26,18 @@
 	- [x] Email MicroAge folks
 - [x] Transfer Log
 	- [x] Matching sheet export
-- [ ] 
 ---
 ## Wednesday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] IT Mgr Meeting
-- [ ] Store Reports if Loren isn’t in
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] MGR Audit stuff
+- [ ] SBM Dashboard missing
+	- [ ] It was reimaged on 7/15
+	- [ ] Try to find out if the data can be dumped in a spreadsheet
 - [ ] Transfer Log - E2E testing
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file

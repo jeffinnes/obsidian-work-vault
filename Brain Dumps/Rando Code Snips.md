@@ -54,3 +54,23 @@ Shell Command to find the top 10 TCP Connection IP sources. For good measure, th
    1597 66.249.65.235
  390420 198.23.212.26 
 ```
+
+
+## SQL query to insert new payroll scheduling emp roles
+``` SQL
+SELECT TOP (1000) [Id]
+      ,[RowKey]
+      ,[RowStatus]
+      ,[SortOrder]
+      ,[CreatedAt]
+      ,[CreatedBy]
+      ,[ModifiedAt]
+      ,[ModifiedBy]
+      ,[EmployeeType]
+      ,[Name]
+  FROM [BuffEx_PayrollSchedulingDB_Dev].[dbo].[EmployeeRole];
+
+
+INSERT INTO [BuffEx_PayrollSchedulingDB_Dev].[dbo].[EmployeeRole] (Id, RowKey, RowStatus, SortOrder, ModifiedBy, EmployeeType, [Name])
+values (NEWID(),0,0,80,'Jeff Innes Via Direct DB Query', 80,'S&R Test');
+```
