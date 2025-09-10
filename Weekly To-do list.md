@@ -51,6 +51,7 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] Transfer Log - E2E testing
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file
 
