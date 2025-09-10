@@ -31,16 +31,16 @@
 
 ### Repeat Tasks
 - [x] Check Grafana
-- [ ] IT Mgr Meeting
+- [x] IT Mgr Meeting
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] MGR Audit stuff
-- [ ] SBM Dashboard missing
-	- [ ] It was reimaged on 7/15
-	- [ ] Try to find out if the data can be dumped in a spreadsheet
+- [x] MGR Audit stuff
+- [x] SBM Dashboard missing
+	- [x] It was reimaged on 7/15
+	- [x] Try to find out if the data can be dumped in a spreadsheet
+	- [x] It can do the thing
+- [x] Payroll Scheduling (Add GA Research)
 - [ ] Transfer Log - E2E testing
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
 
 
 
@@ -51,7 +51,8 @@
 - [ ] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
 
 ---
 ## Friday
