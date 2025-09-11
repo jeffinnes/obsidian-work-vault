@@ -34,5 +34,6 @@ These don't all have to be completed, just a place to gather ideas
 - IT Dashboard login page
 - A single store's store report
 - The server topography page
+- Nice table view of those speed tests (feed in as a JSON object for now)
 
 #### Basic Back-end stage project
