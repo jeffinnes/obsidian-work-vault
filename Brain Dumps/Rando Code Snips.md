@@ -71,8 +71,11 @@ SELECT TOP (1000) [Id]
   FROM [BuffEx_PayrollSchedulingDB_Dev].[dbo].[EmployeeRole];
 
 
-INSERT INTO [BuffEx_PayrollSchedulingDB_Dev].[dbo].[EmployeeRole] (Id, RowKey, RowStatus, SortOrder, ModifiedBy, EmployeeType, [Name])
-values (NEWID(),0,0,80,'Jeff Innes Via Direct DB Query', 80,'S&R Test');
+INSERT INTO [BuffEx_PayrollSchedulingDB_Dev].[dbo].[EmployeeRole] (Id, RowKey, RowStatus, SortOrder, CreatedAt, CreatedBy, ModifiedAt, ModifiedBy, EmployeeType, [Name])
+values (NEWID(), 0, 0, 80, GETDATE(), 'Jeff Innes Via Direct DB Query', GETDATE(), 'Jeff Innes Via Direct DB Query', 80, 'GA F/T');
+
+INSERT INTO [BuffEx_PayrollSchedulingDB_Dev].[dbo].[EmployeeRole] (Id, RowKey, RowStatus, SortOrder, CreatedAt, CreatedBy, ModifiedAt, ModifiedBy, EmployeeType, [Name])
+values (NEWID(), 0, 0, 81, GETDATE(), 'Jeff Innes Via Direct DB Query', GETDATE(), 'Jeff Innes Via Direct DB Query', 81, 'GA P/T');
 ```
 
 
