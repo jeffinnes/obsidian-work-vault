@@ -53,7 +53,7 @@
 ### Daily Tasks
 - [x] Projects for Max
 - [x] Set up Dev scheduling app for S&R Test
-- [ ] Plan Weekend GA sweep
+- [x] Plan Weekend GA sweep
 - [ ] Transfer Log - E2E testing
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file
