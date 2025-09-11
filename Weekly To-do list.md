@@ -48,9 +48,10 @@
 ## Thursday
 
 ### Repeat Tasks
-- [ ] Check Grafana
+- [x] Check Grafana
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [ ] Projects for Max
 - [ ] Transfer Log - E2E testing
 - [ ] Make cover sheets for mpos and mpop instructions
 - [ ] Make User Guide template file

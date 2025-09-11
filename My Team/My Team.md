@@ -2,15 +2,18 @@
 
 ## Things to discuss
 
-  
-
-## Training Materials
-
-[https://levelup.video/tutorials/accessibility-for-everyone](https://levelup.video/tutorials/accessibility-for-everyone)
 
 ## Acknowledgments
 
 
 
-## Stuff and Things
+##  Misc Stuff and Things
+  
+
+## Training Materials
+
+![](Bufex%20Full-stack%20WebDev%20Roadmap-Page-1.png)
+
+[https://levelup.video/tutorials/accessibility-for-everyone](https://levelup.video/tutorials/accessibility-for-everyone)
+
 
