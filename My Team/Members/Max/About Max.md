@@ -20,9 +20,8 @@ Annual eval date: TBD
 
 Next position: Dev 1
 
-  
-
-To Do:
+To Do: Learn learn learn
+Then checklist
 
 
 # Projects and Tasks
@@ -37,3 +36,4 @@ These don't all have to be completed, just a place to gather ideas
 - Nice table view of those speed tests (feed in as a JSON object for now)
 
 #### Basic Back-end stage project
+- Pull the nice table view of the speed tests from a DB on demand
