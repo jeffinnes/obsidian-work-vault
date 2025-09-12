@@ -65,6 +65,7 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
+- [x] Twilio past due invoice?
 - [ ] Transfer Log - E2E testing
 	- [ ] Fill in two stores worth of transfers from actual transfer logs
 - [ ] Make cover sheets for mpos and mpop instructions
