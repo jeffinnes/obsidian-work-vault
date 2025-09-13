@@ -53,10 +53,9 @@
 ### Daily Tasks
 - [x] Projects for Max
 - [x] Set up Dev scheduling app for S&R Test
-- [ ] Plan Weekend GA sweep
-- [ ] Transfer Log - E2E testing
-- [ ] Make cover sheets for mpos and mpop instructions
-- [ ] Make User Guide template file
+- [x] Plan Weekend GA sweep
+- [x] Transfer Log - E2E testing
+- [ ] 
 
 ---
 ## Friday
@@ -66,7 +65,11 @@
 - [ ] SamsPal uploads
 - [ ] Professional Development Activity
 ### Daily Tasks
-- [ ] 
+- [x] Twilio past due invoice?
+- [ ] Transfer Log - E2E testing
+	- [ ] Fill in two stores worth of transfers from actual transfer logs
+- [ ] Make cover sheets for mpos and mpop instructions
+- [ ] Make User Guide template file
   
 ---
 ## Saturday / Sunday
